@@ -1,0 +1,2001 @@
+customer_id,recency,frequency,monetary,cluster,segment
+C00001,40,19,9516.36,2,VIP / High-Value
+C00002,59,15,5722.78,0,VIP / High-Value
+C00003,8,12,5643.55,0,VIP / High-Value
+C00004,14,17,8605.01,2,VIP / High-Value
+C00005,242,2,1157.0900000000001,1,Low-Value / Deal Hunters
+C00006,18,19,9999.529999999999,2,VIP / High-Value
+C00007,63,7,3525.11,3,Low-Value / Deal Hunters
+C00008,127,2,1314.7199999999998,3,Low-Value / Deal Hunters
+C00009,4,14,6163.17,0,VIP / High-Value
+C00010,258,1,175.13,1,Low-Value / Deal Hunters
+C00011,102,7,3669.11,3,Low-Value / Deal Hunters
+C00012,2,10,4905.27,0,VIP / High-Value
+C00013,34,3,1464.72,3,Low-Value / Deal Hunters
+C00014,6,2,453.15,3,Low-Value / Deal Hunters
+C00015,40,19,10745.66,2,VIP / High-Value
+C00016,8,16,8616.19,2,VIP / High-Value
+C00017,19,12,6360.78,0,VIP / High-Value
+C00018,36,17,9410.31,2,VIP / High-Value
+C00019,3,19,8942.68,2,VIP / High-Value
+C00020,45,12,2636.37,0,VIP / High-Value
+C00021,8,19,9368.66,2,VIP / High-Value
+C00022,28,5,902.63,3,Low-Value / Deal Hunters
+C00023,42,6,2487.98,3,Low-Value / Deal Hunters
+C00024,17,7,2368.34,3,Low-Value / Deal Hunters
+C00025,36,18,7762.36,2,VIP / High-Value
+C00026,72,11,3774.74,0,VIP / High-Value
+C00027,9,8,2604.0,3,Low-Value / Deal Hunters
+C00028,88,9,4508.8099999999995,0,VIP / High-Value
+C00029,139,4,1441.82,3,Low-Value / Deal Hunters
+C00030,197,2,1419.23,1,Low-Value / Deal Hunters
+C00031,2,13,4818.91,0,VIP / High-Value
+C00032,4,7,3729.66,0,VIP / High-Value
+C00033,4,7,3167.1,0,VIP / High-Value
+C00034,11,15,4459.56,0,VIP / High-Value
+C00035,50,3,1217.96,3,Low-Value / Deal Hunters
+C00036,8,14,7171.599999999999,2,VIP / High-Value
+C00037,5,12,4865.57,0,VIP / High-Value
+C00038,27,12,6372.96,0,VIP / High-Value
+C00039,34,3,630.18,3,Low-Value / Deal Hunters
+C00040,18,5,2562.9,3,Low-Value / Deal Hunters
+C00041,5,14,6808.3099999999995,2,VIP / High-Value
+C00042,3,17,6962.94,2,VIP / High-Value
+C00043,8,16,7529.9,2,VIP / High-Value
+C00044,23,12,5132.5,0,VIP / High-Value
+C00045,5,18,9764.51,2,VIP / High-Value
+C00046,1,6,1719.69,3,Low-Value / Deal Hunters
+C00047,64,8,2763.45,3,Low-Value / Deal Hunters
+C00048,13,15,7955.389999999999,2,VIP / High-Value
+C00049,33,15,6763.6,2,VIP / High-Value
+C00050,73,14,5502.5,0,VIP / High-Value
+C00051,4,1,353.81,3,Low-Value / Deal Hunters
+C00052,8,15,4501.14,0,VIP / High-Value
+C00053,3,14,6656.4,2,VIP / High-Value
+C00054,103,4,1717.04,3,Low-Value / Deal Hunters
+C00055,7,19,7886.07,2,VIP / High-Value
+C00056,90,4,2182.1,3,Low-Value / Deal Hunters
+C00057,452,1,173.21,1,Low-Value / Deal Hunters
+C00058,5,13,4190.05,0,VIP / High-Value
+C00059,4,18,6837.98,2,VIP / High-Value
+C00060,9,18,7221.78,2,VIP / High-Value
+C00061,25,14,7901.56,2,VIP / High-Value
+C00062,137,3,546.0600000000001,3,Low-Value / Deal Hunters
+C00063,2,18,6531.12,2,VIP / High-Value
+C00064,22,5,1736.6999999999998,3,Low-Value / Deal Hunters
+C00065,26,8,2259.92,3,Low-Value / Deal Hunters
+C00066,27,19,7176.7,2,VIP / High-Value
+C00067,12,17,8153.89,2,VIP / High-Value
+C00068,26,5,2765.89,3,Low-Value / Deal Hunters
+C00069,58,9,3916.01,0,VIP / High-Value
+C00070,18,14,7533.400000000001,2,VIP / High-Value
+C00071,55,7,3475.85,3,Low-Value / Deal Hunters
+C00072,113,10,4846.29,0,VIP / High-Value
+C00073,10,9,4467.85,0,VIP / High-Value
+C00074,27,16,6072.16,2,VIP / High-Value
+C00075,5,16,5760.82,2,VIP / High-Value
+C00076,192,5,2590.41,1,Low-Value / Deal Hunters
+C00077,46,18,8171.889999999999,2,VIP / High-Value
+C00078,1,13,6998.29,2,VIP / High-Value
+C00079,20,20,9359.72,2,VIP / High-Value
+C00080,7,8,2440.4100000000003,3,Low-Value / Deal Hunters
+C00081,14,14,6194.39,0,VIP / High-Value
+C00082,23,11,3596.36,0,VIP / High-Value
+C00083,16,7,2324.16,3,Low-Value / Deal Hunters
+C00084,10,13,6833.13,2,VIP / High-Value
+C00085,58,5,3669.7,3,Low-Value / Deal Hunters
+C00086,50,20,13270.380000000001,2,VIP / High-Value
+C00087,58,8,2510.8,3,Low-Value / Deal Hunters
+C00088,77,14,7457.62,2,VIP / High-Value
+C00089,89,13,6876.31,0,VIP / High-Value
+C00090,2,20,7882.4400000000005,2,VIP / High-Value
+C00091,84,7,3244.89,3,Low-Value / Deal Hunters
+C00092,315,2,1154.1,1,Low-Value / Deal Hunters
+C00093,9,17,7181.59,2,VIP / High-Value
+C00094,81,18,8469.81,2,VIP / High-Value
+C00095,16,10,4486.67,0,VIP / High-Value
+C00096,7,3,2189.13,3,Low-Value / Deal Hunters
+C00097,344,2,528.52,1,Low-Value / Deal Hunters
+C00098,76,14,7506.47,2,VIP / High-Value
+C00099,12,20,8284.43,2,VIP / High-Value
+C00100,15,14,5073.43,0,VIP / High-Value
+C00101,1,13,6689.42,0,VIP / High-Value
+C00102,37,12,6551.07,0,VIP / High-Value
+C00103,75,9,3032.94,3,Low-Value / Deal Hunters
+C00104,10,8,3474.3,0,VIP / High-Value
+C00105,21,12,4011.9500000000003,0,VIP / High-Value
+C00106,49,4,681.37,3,Low-Value / Deal Hunters
+C00107,29,14,6629.66,2,VIP / High-Value
+C00108,13,16,6755.33,2,VIP / High-Value
+C00109,9,6,4001.34,0,VIP / High-Value
+C00110,93,3,1379.01,3,Low-Value / Deal Hunters
+C00111,11,16,5981.4800000000005,2,VIP / High-Value
+C00112,7,11,3504.96,0,VIP / High-Value
+C00113,58,13,5655.27,0,VIP / High-Value
+C00114,13,13,7993.91,2,VIP / High-Value
+C00115,16,14,6603.7699999999995,2,VIP / High-Value
+C00116,18,19,7504.72,2,VIP / High-Value
+C00117,26,15,5522.91,0,VIP / High-Value
+C00118,162,4,1162.58,3,Low-Value / Deal Hunters
+C00119,23,20,10760.33,2,VIP / High-Value
+C00120,4,10,4878.76,0,VIP / High-Value
+C00121,31,15,6887.42,2,VIP / High-Value
+C00122,69,4,1338.26,3,Low-Value / Deal Hunters
+C00123,77,1,886.67,3,Low-Value / Deal Hunters
+C00124,102,4,1418.78,3,Low-Value / Deal Hunters
+C00125,7,16,9931.81,2,VIP / High-Value
+C00126,50,8,2036.89,3,Low-Value / Deal Hunters
+C00127,167,6,1953.29,3,Low-Value / Deal Hunters
+C00128,24,15,6230.24,2,VIP / High-Value
+C00129,54,3,1775.0,3,Low-Value / Deal Hunters
+C00130,5,15,6587.07,2,VIP / High-Value
+C00131,1,3,853.51,3,Low-Value / Deal Hunters
+C00132,46,16,7112.21,2,VIP / High-Value
+C00133,4,16,7663.389999999999,2,VIP / High-Value
+C00134,71,12,4787.99,0,VIP / High-Value
+C00135,23,10,6183.29,0,VIP / High-Value
+C00136,100,7,3356.97,3,Low-Value / Deal Hunters
+C00137,60,15,7847.29,2,VIP / High-Value
+C00138,208,5,1026.37,1,Low-Value / Deal Hunters
+C00139,31,10,3342.02,0,VIP / High-Value
+C00140,156,2,675.0699999999999,3,Low-Value / Deal Hunters
+C00141,338,3,1781.54,1,Low-Value / Deal Hunters
+C00142,5,13,4510.9400000000005,0,VIP / High-Value
+C00143,8,13,7456.38,2,VIP / High-Value
+C00144,115,1,329.67,3,Low-Value / Deal Hunters
+C00145,48,12,4767.21,0,VIP / High-Value
+C00146,56,5,2211.47,3,Low-Value / Deal Hunters
+C00147,13,15,6991.12,2,VIP / High-Value
+C00148,77,12,6020.96,0,VIP / High-Value
+C00149,71,7,1791.3600000000001,3,Low-Value / Deal Hunters
+C00150,57,9,3932.69,0,VIP / High-Value
+C00151,23,3,938.3000000000001,3,Low-Value / Deal Hunters
+C00152,96,6,3518.88,3,Low-Value / Deal Hunters
+C00153,321,2,1118.44,1,Low-Value / Deal Hunters
+C00154,282,2,426.79,1,Low-Value / Deal Hunters
+C00155,46,7,3321.83,3,Low-Value / Deal Hunters
+C00156,104,7,1365.33,3,Low-Value / Deal Hunters
+C00157,39,18,8238.59,2,VIP / High-Value
+C00158,35,9,3287.5,0,VIP / High-Value
+C00159,53,17,6763.5,2,VIP / High-Value
+C00160,30,17,8448.87,2,VIP / High-Value
+C00161,15,10,4794.5,0,VIP / High-Value
+C00162,72,7,3343.33,3,Low-Value / Deal Hunters
+C00163,31,3,1165.5900000000001,3,Low-Value / Deal Hunters
+C00164,48,20,8468.05,2,VIP / High-Value
+C00165,7,3,1015.8999999999999,3,Low-Value / Deal Hunters
+C00166,20,11,3405.6,0,VIP / High-Value
+C00167,19,8,3127.72,0,VIP / High-Value
+C00168,53,9,2648.81,3,Low-Value / Deal Hunters
+C00169,47,7,3265.11,3,Low-Value / Deal Hunters
+C00170,25,8,4271.16,0,VIP / High-Value
+C00171,15,1,603.77,3,Low-Value / Deal Hunters
+C00172,69,5,2692.58,3,Low-Value / Deal Hunters
+C00173,31,12,7128.68,0,VIP / High-Value
+C00174,36,2,398.65,3,Low-Value / Deal Hunters
+C00175,14,12,5344.26,0,VIP / High-Value
+C00176,16,5,1547.46,3,Low-Value / Deal Hunters
+C00177,108,6,2411.63,3,Low-Value / Deal Hunters
+C00178,23,19,7148.18,2,VIP / High-Value
+C00179,8,7,2746.49,3,Low-Value / Deal Hunters
+C00180,7,19,8987.27,2,VIP / High-Value
+C00181,12,14,8074.3,2,VIP / High-Value
+C00182,42,18,8845.77,2,VIP / High-Value
+C00183,138,3,540.38,3,Low-Value / Deal Hunters
+C00184,112,4,1179.7,3,Low-Value / Deal Hunters
+C00185,57,19,8317.6,2,VIP / High-Value
+C00186,2,4,1430.98,3,Low-Value / Deal Hunters
+C00187,46,9,4763.05,0,VIP / High-Value
+C00188,2,18,7769.14,2,VIP / High-Value
+C00189,11,13,7158.15,2,VIP / High-Value
+C00190,29,20,10751.789999999999,2,VIP / High-Value
+C00191,2,9,3452.05,0,VIP / High-Value
+C00192,56,17,7921.88,2,VIP / High-Value
+C00193,16,3,1469.16,3,Low-Value / Deal Hunters
+C00194,418,1,187.56,1,Low-Value / Deal Hunters
+C00195,94,15,6989.42,2,VIP / High-Value
+C00196,1,16,7298.78,2,VIP / High-Value
+C00197,19,7,4190.52,0,VIP / High-Value
+C00198,38,13,6249.41,0,VIP / High-Value
+C00199,58,14,7512.5,2,VIP / High-Value
+C00200,26,13,7793.83,2,VIP / High-Value
+C00201,82,14,4177.98,0,VIP / High-Value
+C00202,3,20,7410.39,2,VIP / High-Value
+C00203,20,7,2457.63,3,Low-Value / Deal Hunters
+C00204,27,8,2577.12,3,Low-Value / Deal Hunters
+C00205,4,18,6317.650000000001,2,VIP / High-Value
+C00206,15,4,699.42,3,Low-Value / Deal Hunters
+C00207,8,7,1816.42,3,Low-Value / Deal Hunters
+C00208,88,9,3284.7400000000002,3,Low-Value / Deal Hunters
+C00209,13,7,2051.32,3,Low-Value / Deal Hunters
+C00210,3,15,4731.49,0,VIP / High-Value
+C00211,115,3,609.19,3,Low-Value / Deal Hunters
+C00212,1,14,5256.97,0,VIP / High-Value
+C00213,55,4,3257.89,3,Low-Value / Deal Hunters
+C00214,4,14,5387.87,0,VIP / High-Value
+C00215,11,13,4652.7300000000005,0,VIP / High-Value
+C00216,50,15,6688.89,2,VIP / High-Value
+C00217,5,7,2183.8199999999997,3,Low-Value / Deal Hunters
+C00218,17,13,4871.69,0,VIP / High-Value
+C00219,93,4,2260.59,3,Low-Value / Deal Hunters
+C00220,83,18,9303.82,2,VIP / High-Value
+C00221,9,7,3535.05,0,VIP / High-Value
+C00222,60,15,5467.83,0,VIP / High-Value
+C00223,67,13,5551.04,0,VIP / High-Value
+C00224,181,4,3047.0299999999997,3,Low-Value / Deal Hunters
+C00225,56,19,13565.77,2,VIP / High-Value
+C00226,129,15,5437.36,0,VIP / High-Value
+C00227,27,12,6424.52,0,VIP / High-Value
+C00228,220,3,1411.71,1,Low-Value / Deal Hunters
+C00229,18,18,8544.21,2,VIP / High-Value
+C00230,21,5,1530.61,3,Low-Value / Deal Hunters
+C00231,20,15,7482.59,2,VIP / High-Value
+C00232,40,10,3530.15,0,VIP / High-Value
+C00233,146,6,1312.32,3,Low-Value / Deal Hunters
+C00234,25,6,3333.8,3,Low-Value / Deal Hunters
+C00235,17,17,10067.3,2,VIP / High-Value
+C00236,105,17,8535.33,2,VIP / High-Value
+C00237,1,20,8220.16,2,VIP / High-Value
+C00238,6,20,10284.2,2,VIP / High-Value
+C00239,27,11,5503.15,0,VIP / High-Value
+C00240,356,1,340.8,1,Low-Value / Deal Hunters
+C00241,7,5,1744.36,3,Low-Value / Deal Hunters
+C00242,78,3,1168.23,3,Low-Value / Deal Hunters
+C00243,31,5,2770.0699999999997,3,Low-Value / Deal Hunters
+C00244,28,9,4401.39,0,VIP / High-Value
+C00245,114,13,7300.5,2,VIP / High-Value
+C00246,20,17,8203.1,2,VIP / High-Value
+C00247,8,16,8277.9,2,VIP / High-Value
+C00248,4,10,4255.43,0,VIP / High-Value
+C00249,13,16,7330.6,2,VIP / High-Value
+C00250,42,5,2886.71,3,Low-Value / Deal Hunters
+C00251,87,4,1474.03,3,Low-Value / Deal Hunters
+C00252,37,7,3281.88,3,Low-Value / Deal Hunters
+C00253,113,2,773.49,3,Low-Value / Deal Hunters
+C00254,34,12,6721.099999999999,0,VIP / High-Value
+C00255,15,6,1992.3700000000001,3,Low-Value / Deal Hunters
+C00256,32,7,2821.48,3,Low-Value / Deal Hunters
+C00257,70,8,3493.78,3,Low-Value / Deal Hunters
+C00258,196,8,4795.48,3,Low-Value / Deal Hunters
+C00259,13,12,3620.17,0,VIP / High-Value
+C00260,73,11,7053.59,0,VIP / High-Value
+C00261,49,9,5701.9400000000005,0,VIP / High-Value
+C00262,22,8,3630.96,0,VIP / High-Value
+C00263,8,12,7313.85,2,VIP / High-Value
+C00264,27,14,5263.05,0,VIP / High-Value
+C00265,56,11,4928.09,0,VIP / High-Value
+C00266,1,11,4387.65,0,VIP / High-Value
+C00267,78,8,3840.41,0,VIP / High-Value
+C00268,20,18,5460.53,2,VIP / High-Value
+C00269,11,14,6979.349999999999,2,VIP / High-Value
+C00270,24,10,3823.0,0,VIP / High-Value
+C00271,30,13,7195.23,2,VIP / High-Value
+C00272,103,3,1588.81,3,Low-Value / Deal Hunters
+C00273,105,2,947.76,3,Low-Value / Deal Hunters
+C00274,138,3,999.35,3,Low-Value / Deal Hunters
+C00275,105,12,4443.26,0,VIP / High-Value
+C00276,10,14,5839.25,0,VIP / High-Value
+C00277,20,12,4554.22,0,VIP / High-Value
+C00278,50,7,2738.09,3,Low-Value / Deal Hunters
+C00279,12,12,4006.18,0,VIP / High-Value
+C00280,16,13,6233.82,0,VIP / High-Value
+C00281,2,14,6947.08,2,VIP / High-Value
+C00282,1,7,2679.09,3,Low-Value / Deal Hunters
+C00283,7,14,6408.59,2,VIP / High-Value
+C00284,104,4,1262.76,3,Low-Value / Deal Hunters
+C00285,111,12,5032.0,0,VIP / High-Value
+C00286,38,18,8801.15,2,VIP / High-Value
+C00287,19,7,4319.84,0,VIP / High-Value
+C00288,60,15,3269.81,0,VIP / High-Value
+C00289,13,4,2494.45,3,Low-Value / Deal Hunters
+C00290,19,9,2813.77,0,VIP / High-Value
+C00291,26,14,4663.3,0,VIP / High-Value
+C00292,63,11,4277.5,0,VIP / High-Value
+C00293,55,18,8248.89,2,VIP / High-Value
+C00294,22,7,3299.81,3,Low-Value / Deal Hunters
+C00295,63,5,2318.8,3,Low-Value / Deal Hunters
+C00296,2,6,3218.95,3,Low-Value / Deal Hunters
+C00297,136,9,4730.8,0,VIP / High-Value
+C00298,18,18,4897.51,2,VIP / High-Value
+C00299,9,18,8524.7,2,VIP / High-Value
+C00300,11,17,7795.16,2,VIP / High-Value
+C00301,21,12,5667.150000000001,0,VIP / High-Value
+C00302,67,4,1661.8899999999999,3,Low-Value / Deal Hunters
+C00303,141,3,2342.47,3,Low-Value / Deal Hunters
+C00304,24,16,6071.24,2,VIP / High-Value
+C00305,44,6,1463.57,3,Low-Value / Deal Hunters
+C00306,8,19,10616.14,2,VIP / High-Value
+C00307,1,17,8351.84,2,VIP / High-Value
+C00308,344,1,558.48,1,Low-Value / Deal Hunters
+C00309,43,18,7290.17,2,VIP / High-Value
+C00310,7,19,8842.880000000001,2,VIP / High-Value
+C00311,105,4,1124.4499999999998,3,Low-Value / Deal Hunters
+C00312,1,14,8841.89,2,VIP / High-Value
+C00313,32,16,8121.67,2,VIP / High-Value
+C00314,4,14,5026.43,0,VIP / High-Value
+C00315,21,7,3272.06,3,Low-Value / Deal Hunters
+C00316,34,18,9942.35,2,VIP / High-Value
+C00317,30,1,932.93,3,Low-Value / Deal Hunters
+C00318,146,11,2384.38,3,Low-Value / Deal Hunters
+C00319,34,13,6441.71,0,VIP / High-Value
+C00320,27,20,8418.05,2,VIP / High-Value
+C00321,82,7,2241.36,3,Low-Value / Deal Hunters
+C00322,45,15,8891.95,2,VIP / High-Value
+C00323,2,10,3512.25,0,VIP / High-Value
+C00324,97,12,4253.47,0,VIP / High-Value
+C00325,83,2,253.07,3,Low-Value / Deal Hunters
+C00326,25,14,8170.84,2,VIP / High-Value
+C00327,45,7,1981.93,3,Low-Value / Deal Hunters
+C00328,55,12,6996.2699999999995,0,VIP / High-Value
+C00329,27,10,4113.47,0,VIP / High-Value
+C00330,18,15,5054.91,0,VIP / High-Value
+C00331,31,13,6066.089999999999,0,VIP / High-Value
+C00332,25,8,3490.17,0,VIP / High-Value
+C00333,106,7,3272.48,3,Low-Value / Deal Hunters
+C00334,32,20,9368.61,2,VIP / High-Value
+C00335,149,3,465.34000000000003,3,Low-Value / Deal Hunters
+C00336,14,5,2483.74,3,Low-Value / Deal Hunters
+C00337,8,19,7866.7300000000005,2,VIP / High-Value
+C00338,150,14,7430.08,2,VIP / High-Value
+C00339,81,3,324.03999999999996,3,Low-Value / Deal Hunters
+C00340,3,17,9264.15,2,VIP / High-Value
+C00341,64,19,8584.22,2,VIP / High-Value
+C00342,9,14,4586.92,0,VIP / High-Value
+C00343,1,8,2077.77,3,Low-Value / Deal Hunters
+C00344,45,11,4484.13,0,VIP / High-Value
+C00345,27,17,8158.34,2,VIP / High-Value
+C00346,20,11,4136.32,0,VIP / High-Value
+C00347,24,17,5563.9,2,VIP / High-Value
+C00348,26,4,2064.21,3,Low-Value / Deal Hunters
+C00349,19,18,8471.81,2,VIP / High-Value
+C00350,13,19,7526.29,2,VIP / High-Value
+C00351,77,2,400.41999999999996,3,Low-Value / Deal Hunters
+C00352,42,10,3590.04,0,VIP / High-Value
+C00353,51,13,4142.42,0,VIP / High-Value
+C00354,205,7,2800.92,1,Low-Value / Deal Hunters
+C00355,11,9,3991.57,0,VIP / High-Value
+C00356,16,10,3583.29,0,VIP / High-Value
+C00357,8,8,3411.19,0,VIP / High-Value
+C00358,17,9,3232.31,0,VIP / High-Value
+C00359,136,5,989.76,3,Low-Value / Deal Hunters
+C00360,36,12,3898.81,0,VIP / High-Value
+C00361,66,9,4614.22,0,VIP / High-Value
+C00362,15,11,3187.44,0,VIP / High-Value
+C00363,4,15,10420.6,2,VIP / High-Value
+C00364,45,9,3602.77,0,VIP / High-Value
+C00365,4,15,5548.51,0,VIP / High-Value
+C00366,58,5,1682.81,3,Low-Value / Deal Hunters
+C00367,26,7,4775.83,0,VIP / High-Value
+C00368,31,12,5665.56,0,VIP / High-Value
+C00369,8,8,6645.49,0,VIP / High-Value
+C00370,87,1,262.77,3,Low-Value / Deal Hunters
+C00371,75,19,8888.91,2,VIP / High-Value
+C00372,24,6,2694.3199999999997,3,Low-Value / Deal Hunters
+C00373,15,3,951.99,3,Low-Value / Deal Hunters
+C00374,40,17,6694.06,2,VIP / High-Value
+C00375,20,16,7461.3,2,VIP / High-Value
+C00376,25,17,6209.26,2,VIP / High-Value
+C00377,39,13,5006.49,0,VIP / High-Value
+C00378,1,16,8431.41,2,VIP / High-Value
+C00379,3,12,8540.16,2,VIP / High-Value
+C00380,88,15,5257.94,0,VIP / High-Value
+C00381,53,8,3180.5,3,Low-Value / Deal Hunters
+C00382,22,13,5863.93,0,VIP / High-Value
+C00383,55,13,4802.4400000000005,0,VIP / High-Value
+C00384,21,7,2823.93,3,Low-Value / Deal Hunters
+C00385,11,8,3513.41,0,VIP / High-Value
+C00386,114,1,95.43,3,Low-Value / Deal Hunters
+C00387,176,6,1781.27,3,Low-Value / Deal Hunters
+C00388,104,7,3100.04,3,Low-Value / Deal Hunters
+C00389,31,9,5531.78,0,VIP / High-Value
+C00390,5,6,2876.79,3,Low-Value / Deal Hunters
+C00391,139,1,1013.88,3,Low-Value / Deal Hunters
+C00392,50,7,2884.9300000000003,3,Low-Value / Deal Hunters
+C00393,14,17,8229.32,2,VIP / High-Value
+C00394,22,18,8596.300000000001,2,VIP / High-Value
+C00395,17,20,7204.610000000001,2,VIP / High-Value
+C00396,1,7,3676.1,0,VIP / High-Value
+C00397,37,4,2159.54,3,Low-Value / Deal Hunters
+C00398,20,14,6914.57,2,VIP / High-Value
+C00399,20,19,9072.88,2,VIP / High-Value
+C00400,26,9,3713.06,0,VIP / High-Value
+C00401,21,15,9139.35,2,VIP / High-Value
+C00402,6,6,2226.33,3,Low-Value / Deal Hunters
+C00403,14,20,10836.67,2,VIP / High-Value
+C00404,356,2,782.21,1,Low-Value / Deal Hunters
+C00405,5,11,5667.43,0,VIP / High-Value
+C00406,238,2,897.44,1,Low-Value / Deal Hunters
+C00407,317,3,1281.07,1,Low-Value / Deal Hunters
+C00408,30,15,7392.47,2,VIP / High-Value
+C00409,41,14,5495.28,0,VIP / High-Value
+C00410,87,6,2962.6400000000003,3,Low-Value / Deal Hunters
+C00411,83,7,3745.65,3,Low-Value / Deal Hunters
+C00412,16,20,8489.37,2,VIP / High-Value
+C00413,90,5,1875.73,3,Low-Value / Deal Hunters
+C00414,232,2,237.21,1,Low-Value / Deal Hunters
+C00415,73,10,4414.09,0,VIP / High-Value
+C00416,10,12,4924.28,0,VIP / High-Value
+C00417,17,13,5529.25,0,VIP / High-Value
+C00418,45,9,3228.92,0,VIP / High-Value
+C00419,83,2,873.8100000000001,3,Low-Value / Deal Hunters
+C00420,1,19,7756.54,2,VIP / High-Value
+C00421,12,10,3617.76,0,VIP / High-Value
+C00422,35,15,8766.4,2,VIP / High-Value
+C00423,35,9,4535.51,0,VIP / High-Value
+C00424,58,2,522.76,3,Low-Value / Deal Hunters
+C00425,23,20,7582.48,2,VIP / High-Value
+C00426,12,12,6170.21,0,VIP / High-Value
+C00427,4,20,8414.94,2,VIP / High-Value
+C00428,65,13,5369.849999999999,0,VIP / High-Value
+C00429,84,1,292.79,3,Low-Value / Deal Hunters
+C00430,5,10,4002.75,0,VIP / High-Value
+C00431,76,2,1177.74,3,Low-Value / Deal Hunters
+C00432,35,15,6506.599999999999,2,VIP / High-Value
+C00433,21,12,5734.54,0,VIP / High-Value
+C00434,15,4,1667.95,3,Low-Value / Deal Hunters
+C00435,5,11,5066.61,0,VIP / High-Value
+C00436,40,13,4503.78,0,VIP / High-Value
+C00437,2,18,9327.06,2,VIP / High-Value
+C00438,13,3,814.6800000000001,3,Low-Value / Deal Hunters
+C00439,22,15,6016.16,2,VIP / High-Value
+C00440,29,6,5344.88,0,VIP / High-Value
+C00441,12,13,5581.49,0,VIP / High-Value
+C00442,53,15,6804.47,2,VIP / High-Value
+C00443,14,17,5804.57,2,VIP / High-Value
+C00444,49,20,9186.8,2,VIP / High-Value
+C00445,27,19,10529.61,2,VIP / High-Value
+C00446,69,13,6773.650000000001,0,VIP / High-Value
+C00447,71,18,9994.0,2,VIP / High-Value
+C00448,78,1,456.68,3,Low-Value / Deal Hunters
+C00449,23,12,5641.51,0,VIP / High-Value
+C00450,5,14,6285.12,2,VIP / High-Value
+C00451,8,6,3502.46,3,Low-Value / Deal Hunters
+C00452,2,20,9926.94,2,VIP / High-Value
+C00453,38,20,9441.27,2,VIP / High-Value
+C00454,9,6,1830.1,3,Low-Value / Deal Hunters
+C00455,29,8,1841.9099999999999,3,Low-Value / Deal Hunters
+C00456,1,15,5884.18,2,VIP / High-Value
+C00457,43,3,1351.25,3,Low-Value / Deal Hunters
+C00458,78,1,199.78,3,Low-Value / Deal Hunters
+C00459,116,12,5503.79,0,VIP / High-Value
+C00460,8,19,8553.99,2,VIP / High-Value
+C00461,31,19,10009.17,2,VIP / High-Value
+C00462,265,1,494.55,1,Low-Value / Deal Hunters
+C00463,63,7,2255.71,3,Low-Value / Deal Hunters
+C00464,18,9,3827.35,0,VIP / High-Value
+C00465,12,15,8373.36,2,VIP / High-Value
+C00466,344,2,2168.73,1,Low-Value / Deal Hunters
+C00467,42,9,3020.32,0,VIP / High-Value
+C00468,25,17,8366.27,2,VIP / High-Value
+C00469,3,5,1931.3400000000001,3,Low-Value / Deal Hunters
+C00470,23,10,5023.03,0,VIP / High-Value
+C00471,10,18,7706.59,2,VIP / High-Value
+C00472,1,20,11279.27,2,VIP / High-Value
+C00473,16,15,6321.38,2,VIP / High-Value
+C00474,132,6,3357.3999999999996,3,Low-Value / Deal Hunters
+C00475,10,9,4386.97,0,VIP / High-Value
+C00476,24,11,4461.21,0,VIP / High-Value
+C00477,90,14,4842.11,0,VIP / High-Value
+C00478,44,4,2704.61,3,Low-Value / Deal Hunters
+C00479,16,7,2399.38,3,Low-Value / Deal Hunters
+C00480,100,8,3870.5,3,Low-Value / Deal Hunters
+C00481,22,14,6029.82,0,VIP / High-Value
+C00482,43,19,6684.67,2,VIP / High-Value
+C00483,2,15,5922.3,2,VIP / High-Value
+C00484,8,20,6915.53,2,VIP / High-Value
+C00485,38,5,1519.27,3,Low-Value / Deal Hunters
+C00486,12,7,2928.16,3,Low-Value / Deal Hunters
+C00487,69,4,698.18,3,Low-Value / Deal Hunters
+C00488,103,8,2878.94,3,Low-Value / Deal Hunters
+C00489,67,16,8446.380000000001,2,VIP / High-Value
+C00490,50,11,3988.47,0,VIP / High-Value
+C00491,111,8,3873.38,3,Low-Value / Deal Hunters
+C00492,97,1,679.77,3,Low-Value / Deal Hunters
+C00493,28,13,6748.03,0,VIP / High-Value
+C00494,1,4,2613.21,3,Low-Value / Deal Hunters
+C00495,12,12,5431.71,0,VIP / High-Value
+C00496,24,19,9142.18,2,VIP / High-Value
+C00497,40,8,3545.79,0,VIP / High-Value
+C00498,74,19,10360.28,2,VIP / High-Value
+C00499,3,19,6188.92,2,VIP / High-Value
+C00500,20,16,7125.94,2,VIP / High-Value
+C00501,19,20,9650.41,2,VIP / High-Value
+C00502,28,14,8041.88,2,VIP / High-Value
+C00503,140,4,2248.68,3,Low-Value / Deal Hunters
+C00504,76,8,3549.6,3,Low-Value / Deal Hunters
+C00505,3,7,2603.63,3,Low-Value / Deal Hunters
+C00506,19,17,9042.11,2,VIP / High-Value
+C00507,18,2,319.56,3,Low-Value / Deal Hunters
+C00508,1,17,9025.63,2,VIP / High-Value
+C00509,39,12,5167.55,0,VIP / High-Value
+C00510,5,9,3523.52,0,VIP / High-Value
+C00511,363,1,175.44,1,Low-Value / Deal Hunters
+C00512,53,20,8214.99,2,VIP / High-Value
+C00513,5,2,978.4599999999999,3,Low-Value / Deal Hunters
+C00514,61,16,6636.3,2,VIP / High-Value
+C00515,26,9,6810.21,0,VIP / High-Value
+C00516,16,11,6084.14,0,VIP / High-Value
+C00517,37,12,6495.63,0,VIP / High-Value
+C00518,48,13,4969.87,0,VIP / High-Value
+C00519,17,15,6633.24,2,VIP / High-Value
+C00520,20,18,12280.71,2,VIP / High-Value
+C00521,8,1,137.2,3,Low-Value / Deal Hunters
+C00522,223,7,4605.799999999999,1,Low-Value / Deal Hunters
+C00523,93,13,5462.1,0,VIP / High-Value
+C00524,63,4,1397.52,3,Low-Value / Deal Hunters
+C00525,59,2,800.94,3,Low-Value / Deal Hunters
+C00526,23,4,2829.65,3,Low-Value / Deal Hunters
+C00527,6,9,5491.14,0,VIP / High-Value
+C00528,34,2,382.27,3,Low-Value / Deal Hunters
+C00529,35,9,3551.31,0,VIP / High-Value
+C00530,180,15,6181.87,0,VIP / High-Value
+C00531,37,19,7375.17,2,VIP / High-Value
+C00532,51,17,6694.47,2,VIP / High-Value
+C00533,38,9,5025.12,0,VIP / High-Value
+C00534,9,20,9977.130000000001,2,VIP / High-Value
+C00535,7,7,1560.84,3,Low-Value / Deal Hunters
+C00536,68,8,4521.77,0,VIP / High-Value
+C00537,69,9,4816.43,0,VIP / High-Value
+C00538,74,12,4040.79,0,VIP / High-Value
+C00539,30,13,4199.23,0,VIP / High-Value
+C00540,10,7,2693.7000000000003,3,Low-Value / Deal Hunters
+C00541,7,17,7134.76,2,VIP / High-Value
+C00542,7,14,6873.18,2,VIP / High-Value
+C00543,34,15,8460.0,2,VIP / High-Value
+C00544,19,8,4047.7200000000003,0,VIP / High-Value
+C00545,28,7,3064.1,3,Low-Value / Deal Hunters
+C00546,29,15,5632.25,0,VIP / High-Value
+C00547,221,2,750.14,1,Low-Value / Deal Hunters
+C00548,36,16,7704.95,2,VIP / High-Value
+C00549,26,4,1948.1399999999999,3,Low-Value / Deal Hunters
+C00550,19,9,4715.01,0,VIP / High-Value
+C00551,3,8,4669.65,0,VIP / High-Value
+C00552,23,18,5091.87,2,VIP / High-Value
+C00553,316,3,1210.6799999999998,1,Low-Value / Deal Hunters
+C00554,35,14,6843.35,2,VIP / High-Value
+C00555,44,9,5361.81,0,VIP / High-Value
+C00556,5,9,3809.2200000000003,0,VIP / High-Value
+C00557,68,4,2053.49,3,Low-Value / Deal Hunters
+C00558,111,3,611.37,3,Low-Value / Deal Hunters
+C00559,18,14,5716.0199999999995,0,VIP / High-Value
+C00560,81,13,5234.48,0,VIP / High-Value
+C00561,40,11,4694.25,0,VIP / High-Value
+C00562,23,19,8567.99,2,VIP / High-Value
+C00563,53,16,6758.15,2,VIP / High-Value
+C00564,72,5,1688.17,3,Low-Value / Deal Hunters
+C00565,292,1,406.74,1,Low-Value / Deal Hunters
+C00566,221,2,587.13,1,Low-Value / Deal Hunters
+C00567,41,13,8625.8,2,VIP / High-Value
+C00568,358,2,800.39,1,Low-Value / Deal Hunters
+C00569,20,1,978.32,3,Low-Value / Deal Hunters
+C00570,29,20,10730.36,2,VIP / High-Value
+C00571,70,4,1209.26,3,Low-Value / Deal Hunters
+C00572,4,16,5176.74,0,VIP / High-Value
+C00573,13,16,9496.08,2,VIP / High-Value
+C00574,94,5,1651.54,3,Low-Value / Deal Hunters
+C00575,10,17,7930.43,2,VIP / High-Value
+C00576,107,14,6423.87,0,VIP / High-Value
+C00577,91,4,1608.87,3,Low-Value / Deal Hunters
+C00578,18,15,5815.07,0,VIP / High-Value
+C00579,50,11,4525.85,0,VIP / High-Value
+C00580,39,13,5003.389999999999,0,VIP / High-Value
+C00581,43,17,4644.55,0,VIP / High-Value
+C00582,42,19,7401.5,2,VIP / High-Value
+C00583,14,10,4268.31,0,VIP / High-Value
+C00584,190,2,1186.03,1,Low-Value / Deal Hunters
+C00585,2,5,1605.3500000000001,3,Low-Value / Deal Hunters
+C00586,39,9,5724.03,0,VIP / High-Value
+C00587,17,12,6721.6900000000005,0,VIP / High-Value
+C00588,268,6,1937.72,1,Low-Value / Deal Hunters
+C00589,145,1,136.32,3,Low-Value / Deal Hunters
+C00590,55,13,3237.32,0,VIP / High-Value
+C00591,15,9,2335.11,0,VIP / High-Value
+C00592,86,11,5233.89,0,VIP / High-Value
+C00593,47,19,6085.63,2,VIP / High-Value
+C00594,15,16,7127.52,2,VIP / High-Value
+C00595,12,14,4623.24,0,VIP / High-Value
+C00596,25,5,2096.77,3,Low-Value / Deal Hunters
+C00597,110,2,1366.6599999999999,3,Low-Value / Deal Hunters
+C00598,4,18,8176.85,2,VIP / High-Value
+C00599,7,16,6943.0,2,VIP / High-Value
+C00600,194,3,905.48,1,Low-Value / Deal Hunters
+C00601,23,13,4720.27,0,VIP / High-Value
+C00602,31,16,8229.09,2,VIP / High-Value
+C00603,10,17,7060.78,2,VIP / High-Value
+C00604,40,6,2465.81,3,Low-Value / Deal Hunters
+C00605,11,15,7241.2300000000005,2,VIP / High-Value
+C00606,110,5,1885.24,3,Low-Value / Deal Hunters
+C00607,26,12,6113.71,0,VIP / High-Value
+C00608,450,1,536.8,1,Low-Value / Deal Hunters
+C00609,6,11,5304.37,0,VIP / High-Value
+C00610,21,17,8028.19,2,VIP / High-Value
+C00611,2,1,206.9,3,Low-Value / Deal Hunters
+C00612,28,5,1355.1499999999999,3,Low-Value / Deal Hunters
+C00613,24,6,1369.1399999999999,3,Low-Value / Deal Hunters
+C00614,23,20,8012.91,2,VIP / High-Value
+C00615,12,9,3452.69,0,VIP / High-Value
+C00616,110,3,1580.1,3,Low-Value / Deal Hunters
+C00617,81,5,2019.74,3,Low-Value / Deal Hunters
+C00618,5,11,6211.42,0,VIP / High-Value
+C00619,49,17,7432.49,2,VIP / High-Value
+C00620,7,7,3607.52,0,VIP / High-Value
+C00621,68,10,5554.09,0,VIP / High-Value
+C00622,72,7,3605.37,3,Low-Value / Deal Hunters
+C00623,23,14,6697.73,2,VIP / High-Value
+C00624,159,9,3231.31,3,Low-Value / Deal Hunters
+C00625,72,17,6185.679999999999,2,VIP / High-Value
+C00626,14,6,2171.38,3,Low-Value / Deal Hunters
+C00627,151,4,896.88,3,Low-Value / Deal Hunters
+C00628,9,5,1647.92,3,Low-Value / Deal Hunters
+C00629,56,9,2589.78,3,Low-Value / Deal Hunters
+C00630,32,9,2837.62,0,VIP / High-Value
+C00631,8,20,8154.13,2,VIP / High-Value
+C00632,27,13,6711.79,0,VIP / High-Value
+C00633,155,3,1230.93,3,Low-Value / Deal Hunters
+C00634,102,2,997.11,3,Low-Value / Deal Hunters
+C00635,8,19,7100.4400000000005,2,VIP / High-Value
+C00636,8,16,5041.5,0,VIP / High-Value
+C00637,6,12,3950.42,0,VIP / High-Value
+C00638,56,5,2973.0499999999997,3,Low-Value / Deal Hunters
+C00639,24,12,6354.6900000000005,0,VIP / High-Value
+C00640,29,15,6326.82,2,VIP / High-Value
+C00641,11,14,4975.97,0,VIP / High-Value
+C00642,36,3,1823.92,3,Low-Value / Deal Hunters
+C00643,3,13,4455.84,0,VIP / High-Value
+C00644,207,1,679.35,1,Low-Value / Deal Hunters
+C00645,27,6,4837.08,0,VIP / High-Value
+C00646,1,8,3891.07,0,VIP / High-Value
+C00647,115,2,1784.6699999999998,3,Low-Value / Deal Hunters
+C00648,18,8,4921.15,0,VIP / High-Value
+C00649,1,20,7545.27,2,VIP / High-Value
+C00650,11,19,10267.71,2,VIP / High-Value
+C00651,383,1,287.29,1,Low-Value / Deal Hunters
+C00652,37,9,3121.88,0,VIP / High-Value
+C00653,15,20,11313.52,2,VIP / High-Value
+C00654,12,12,6185.66,0,VIP / High-Value
+C00655,99,3,1336.6100000000001,3,Low-Value / Deal Hunters
+C00656,77,3,2050.09,3,Low-Value / Deal Hunters
+C00657,17,14,6175.79,0,VIP / High-Value
+C00658,152,5,2119.26,3,Low-Value / Deal Hunters
+C00659,20,15,5901.75,2,VIP / High-Value
+C00660,134,8,3508.35,3,Low-Value / Deal Hunters
+C00661,37,4,1418.52,3,Low-Value / Deal Hunters
+C00662,65,3,1591.29,3,Low-Value / Deal Hunters
+C00663,59,6,3517.07,3,Low-Value / Deal Hunters
+C00664,1,6,3150.7200000000003,3,Low-Value / Deal Hunters
+C00665,58,8,4369.79,0,VIP / High-Value
+C00666,7,10,4458.99,0,VIP / High-Value
+C00667,13,4,1813.91,3,Low-Value / Deal Hunters
+C00668,131,9,3960.8500000000004,3,Low-Value / Deal Hunters
+C00669,17,10,4250.58,0,VIP / High-Value
+C00670,72,2,615.74,3,Low-Value / Deal Hunters
+C00671,7,13,6062.68,0,VIP / High-Value
+C00672,37,13,5371.33,0,VIP / High-Value
+C00673,7,3,1281.0300000000002,3,Low-Value / Deal Hunters
+C00674,25,14,4705.43,0,VIP / High-Value
+C00675,358,1,140.53,1,Low-Value / Deal Hunters
+C00676,23,20,8643.82,2,VIP / High-Value
+C00677,3,6,1459.78,3,Low-Value / Deal Hunters
+C00678,23,14,8000.91,2,VIP / High-Value
+C00679,245,1,520.45,1,Low-Value / Deal Hunters
+C00680,44,18,6542.09,2,VIP / High-Value
+C00681,84,5,1144.5100000000002,3,Low-Value / Deal Hunters
+C00682,7,6,2462.04,3,Low-Value / Deal Hunters
+C00683,25,14,6480.97,2,VIP / High-Value
+C00684,55,19,8142.04,2,VIP / High-Value
+C00685,63,18,7814.07,2,VIP / High-Value
+C00686,143,7,1630.71,3,Low-Value / Deal Hunters
+C00687,4,13,7933.2,2,VIP / High-Value
+C00688,324,1,548.84,1,Low-Value / Deal Hunters
+C00689,60,15,5704.91,0,VIP / High-Value
+C00690,149,3,1234.12,3,Low-Value / Deal Hunters
+C00691,56,5,1225.7,3,Low-Value / Deal Hunters
+C00692,50,15,6632.1900000000005,2,VIP / High-Value
+C00693,70,4,1449.25,3,Low-Value / Deal Hunters
+C00694,24,19,8242.06,2,VIP / High-Value
+C00695,74,14,4203.82,0,VIP / High-Value
+C00696,1,9,2424.76,0,VIP / High-Value
+C00697,14,5,2807.88,3,Low-Value / Deal Hunters
+C00698,36,20,8499.73,2,VIP / High-Value
+C00699,58,15,7669.1,2,VIP / High-Value
+C00700,102,7,2746.46,3,Low-Value / Deal Hunters
+C00701,18,13,5455.55,0,VIP / High-Value
+C00702,27,11,5279.63,0,VIP / High-Value
+C00703,44,20,10260.7,2,VIP / High-Value
+C00704,91,7,2260.82,3,Low-Value / Deal Hunters
+C00705,271,1,112.88,1,Low-Value / Deal Hunters
+C00706,17,16,6651.13,2,VIP / High-Value
+C00707,113,5,2426.8,3,Low-Value / Deal Hunters
+C00708,38,8,3791.79,0,VIP / High-Value
+C00709,297,1,343.72,1,Low-Value / Deal Hunters
+C00710,2,12,4960.97,0,VIP / High-Value
+C00711,50,10,3693.74,0,VIP / High-Value
+C00712,7,13,6766.33,2,VIP / High-Value
+C00713,5,12,6529.61,0,VIP / High-Value
+C00714,8,16,4982.61,0,VIP / High-Value
+C00715,107,3,397.33,3,Low-Value / Deal Hunters
+C00716,3,14,5185.33,0,VIP / High-Value
+C00717,50,17,6082.69,2,VIP / High-Value
+C00718,21,16,10390.25,2,VIP / High-Value
+C00719,66,8,3285.34,3,Low-Value / Deal Hunters
+C00720,18,18,7675.0599999999995,2,VIP / High-Value
+C00721,1,17,5864.04,2,VIP / High-Value
+C00722,88,6,2312.41,3,Low-Value / Deal Hunters
+C00723,18,11,4192.8,0,VIP / High-Value
+C00724,69,3,1649.8000000000002,3,Low-Value / Deal Hunters
+C00725,88,12,5882.04,0,VIP / High-Value
+C00726,41,19,8085.67,2,VIP / High-Value
+C00727,421,1,719.02,1,Low-Value / Deal Hunters
+C00728,334,1,554.66,1,Low-Value / Deal Hunters
+C00729,17,9,3660.6,0,VIP / High-Value
+C00730,2,11,8267.79,2,VIP / High-Value
+C00731,5,15,7103.0,2,VIP / High-Value
+C00732,39,8,3832.85,0,VIP / High-Value
+C00733,159,3,2276.7200000000003,3,Low-Value / Deal Hunters
+C00734,155,1,1283.72,3,Low-Value / Deal Hunters
+C00735,62,14,6714.29,2,VIP / High-Value
+C00736,302,3,1119.9299999999998,1,Low-Value / Deal Hunters
+C00737,201,4,762.65,1,Low-Value / Deal Hunters
+C00738,55,11,4817.59,0,VIP / High-Value
+C00739,80,9,5901.4800000000005,0,VIP / High-Value
+C00740,56,16,5939.14,2,VIP / High-Value
+C00741,6,20,10525.44,2,VIP / High-Value
+C00742,31,18,5757.85,2,VIP / High-Value
+C00743,3,10,4256.71,0,VIP / High-Value
+C00744,370,1,360.88,1,Low-Value / Deal Hunters
+C00745,302,4,1520.8,1,Low-Value / Deal Hunters
+C00746,10,9,2883.92,0,VIP / High-Value
+C00747,44,12,5961.56,0,VIP / High-Value
+C00748,23,13,7247.88,2,VIP / High-Value
+C00749,4,12,6080.95,0,VIP / High-Value
+C00750,116,13,5847.54,0,VIP / High-Value
+C00751,15,11,4765.12,0,VIP / High-Value
+C00752,5,15,8894.43,2,VIP / High-Value
+C00753,17,20,9413.720000000001,2,VIP / High-Value
+C00754,30,17,8004.0599999999995,2,VIP / High-Value
+C00755,17,9,3705.82,0,VIP / High-Value
+C00756,48,7,3626.6000000000004,3,Low-Value / Deal Hunters
+C00757,21,11,4294.6,0,VIP / High-Value
+C00758,11,12,7983.1,2,VIP / High-Value
+C00759,26,11,4672.42,0,VIP / High-Value
+C00760,6,10,4205.91,0,VIP / High-Value
+C00761,130,2,458.87,3,Low-Value / Deal Hunters
+C00762,14,8,3854.9700000000003,0,VIP / High-Value
+C00763,17,4,1424.24,3,Low-Value / Deal Hunters
+C00764,4,20,10923.02,2,VIP / High-Value
+C00765,21,8,4146.030000000001,0,VIP / High-Value
+C00766,38,19,6673.39,2,VIP / High-Value
+C00767,53,7,3342.68,3,Low-Value / Deal Hunters
+C00768,23,12,6134.41,0,VIP / High-Value
+C00769,13,6,2131.2,3,Low-Value / Deal Hunters
+C00770,13,12,5441.26,0,VIP / High-Value
+C00771,68,16,8791.92,2,VIP / High-Value
+C00772,2,16,5826.95,2,VIP / High-Value
+C00773,108,3,2208.33,3,Low-Value / Deal Hunters
+C00774,4,10,3394.3,0,VIP / High-Value
+C00775,25,6,2756.88,3,Low-Value / Deal Hunters
+C00776,74,7,2659.5699999999997,3,Low-Value / Deal Hunters
+C00777,94,8,2739.71,3,Low-Value / Deal Hunters
+C00778,21,15,7077.31,2,VIP / High-Value
+C00779,116,2,962.73,3,Low-Value / Deal Hunters
+C00780,51,10,2397.66,0,VIP / High-Value
+C00781,8,4,1009.3599999999999,3,Low-Value / Deal Hunters
+C00782,18,10,3404.2,0,VIP / High-Value
+C00783,5,12,5834.889999999999,0,VIP / High-Value
+C00784,147,2,1376.6799999999998,3,Low-Value / Deal Hunters
+C00785,22,14,4866.87,0,VIP / High-Value
+C00786,117,3,1050.39,3,Low-Value / Deal Hunters
+C00787,33,3,1160.9099999999999,3,Low-Value / Deal Hunters
+C00788,440,1,784.39,1,Low-Value / Deal Hunters
+C00789,13,16,7309.02,2,VIP / High-Value
+C00790,14,6,1925.28,3,Low-Value / Deal Hunters
+C00791,30,11,6488.04,0,VIP / High-Value
+C00792,22,11,2256.0299999999997,0,VIP / High-Value
+C00793,76,14,6213.1900000000005,0,VIP / High-Value
+C00794,33,7,1978.19,3,Low-Value / Deal Hunters
+C00795,13,9,2749.41,0,VIP / High-Value
+C00796,59,5,1650.0100000000002,3,Low-Value / Deal Hunters
+C00797,47,6,2988.01,3,Low-Value / Deal Hunters
+C00798,77,7,4319.79,0,VIP / High-Value
+C00799,1,16,6780.0199999999995,2,VIP / High-Value
+C00800,2,4,739.76,3,Low-Value / Deal Hunters
+C00801,11,13,3265.15,0,VIP / High-Value
+C00802,8,11,5330.21,0,VIP / High-Value
+C00803,28,2,571.69,3,Low-Value / Deal Hunters
+C00804,3,2,1446.1,3,Low-Value / Deal Hunters
+C00805,8,17,8307.130000000001,2,VIP / High-Value
+C00806,8,5,1357.48,3,Low-Value / Deal Hunters
+C00807,15,10,3255.9300000000003,0,VIP / High-Value
+C00808,273,2,1116.82,1,Low-Value / Deal Hunters
+C00809,89,3,1304.71,3,Low-Value / Deal Hunters
+C00810,145,1,464.16,3,Low-Value / Deal Hunters
+C00811,37,16,7337.89,2,VIP / High-Value
+C00812,3,13,6225.74,0,VIP / High-Value
+C00813,42,18,9593.47,2,VIP / High-Value
+C00814,36,11,5647.58,0,VIP / High-Value
+C00815,12,18,6472.26,2,VIP / High-Value
+C00816,176,4,1438.61,3,Low-Value / Deal Hunters
+C00817,168,2,603.16,3,Low-Value / Deal Hunters
+C00818,1,18,6009.57,2,VIP / High-Value
+C00819,74,9,4617.41,0,VIP / High-Value
+C00820,112,6,1509.51,3,Low-Value / Deal Hunters
+C00821,45,9,3685.42,0,VIP / High-Value
+C00822,57,5,2165.21,3,Low-Value / Deal Hunters
+C00823,1,12,4369.28,0,VIP / High-Value
+C00824,20,19,11647.46,2,VIP / High-Value
+C00825,348,2,1514.08,1,Low-Value / Deal Hunters
+C00826,44,11,4338.09,0,VIP / High-Value
+C00827,42,9,3071.4700000000003,0,VIP / High-Value
+C00828,9,17,7942.62,2,VIP / High-Value
+C00829,3,19,9809.94,2,VIP / High-Value
+C00830,32,13,6175.62,0,VIP / High-Value
+C00831,28,10,3939.81,0,VIP / High-Value
+C00832,62,20,8922.21,2,VIP / High-Value
+C00833,18,5,2050.27,3,Low-Value / Deal Hunters
+C00834,160,2,531.01,3,Low-Value / Deal Hunters
+C00835,48,16,7957.9,2,VIP / High-Value
+C00836,3,19,8913.19,2,VIP / High-Value
+C00837,1,9,5308.71,0,VIP / High-Value
+C00838,26,13,6949.15,2,VIP / High-Value
+C00839,24,12,6077.45,0,VIP / High-Value
+C00840,40,13,4894.75,0,VIP / High-Value
+C00841,67,19,7244.0,2,VIP / High-Value
+C00842,13,17,8415.13,2,VIP / High-Value
+C00843,17,14,5155.53,0,VIP / High-Value
+C00844,61,11,3864.04,0,VIP / High-Value
+C00845,15,17,5542.45,2,VIP / High-Value
+C00846,34,7,4517.08,0,VIP / High-Value
+C00847,101,15,6975.23,2,VIP / High-Value
+C00848,34,15,2897.1,0,VIP / High-Value
+C00849,1,16,7744.2,2,VIP / High-Value
+C00850,35,10,4914.37,0,VIP / High-Value
+C00851,18,6,4542.73,0,VIP / High-Value
+C00852,17,8,3072.76,0,VIP / High-Value
+C00853,25,11,6057.92,0,VIP / High-Value
+C00854,43,13,5641.31,0,VIP / High-Value
+C00855,31,8,3158.84,0,VIP / High-Value
+C00856,16,5,2734.09,3,Low-Value / Deal Hunters
+C00857,27,7,3104.13,3,Low-Value / Deal Hunters
+C00858,77,10,5721.95,0,VIP / High-Value
+C00859,1,20,10767.77,2,VIP / High-Value
+C00860,42,18,7152.51,2,VIP / High-Value
+C00861,23,6,3142.38,3,Low-Value / Deal Hunters
+C00862,73,5,3819.4700000000003,3,Low-Value / Deal Hunters
+C00863,58,8,2882.98,3,Low-Value / Deal Hunters
+C00864,30,3,1880.97,3,Low-Value / Deal Hunters
+C00865,28,13,4518.03,0,VIP / High-Value
+C00866,135,13,7223.71,2,VIP / High-Value
+C00867,27,19,7845.04,2,VIP / High-Value
+C00868,3,14,7189.47,2,VIP / High-Value
+C00869,3,15,7383.700000000001,2,VIP / High-Value
+C00870,68,14,5320.18,0,VIP / High-Value
+C00871,62,8,4554.59,0,VIP / High-Value
+C00872,63,3,953.74,3,Low-Value / Deal Hunters
+C00873,27,7,3129.89,3,Low-Value / Deal Hunters
+C00874,42,6,3189.6400000000003,3,Low-Value / Deal Hunters
+C00875,42,10,5593.02,0,VIP / High-Value
+C00876,52,14,6112.73,0,VIP / High-Value
+C00877,41,13,6248.07,0,VIP / High-Value
+C00878,140,8,4500.900000000001,3,Low-Value / Deal Hunters
+C00879,114,15,6216.48,2,VIP / High-Value
+C00880,51,6,3369.38,3,Low-Value / Deal Hunters
+C00881,9,11,4166.99,0,VIP / High-Value
+C00882,142,3,1577.57,3,Low-Value / Deal Hunters
+C00883,59,11,6344.71,0,VIP / High-Value
+C00884,11,20,8341.75,2,VIP / High-Value
+C00885,9,13,5710.83,0,VIP / High-Value
+C00886,3,13,6147.35,0,VIP / High-Value
+C00887,6,4,2411.6600000000003,3,Low-Value / Deal Hunters
+C00888,20,17,8024.87,2,VIP / High-Value
+C00889,2,10,5142.32,0,VIP / High-Value
+C00890,42,14,5429.04,0,VIP / High-Value
+C00891,82,16,8375.75,2,VIP / High-Value
+C00892,34,2,730.76,3,Low-Value / Deal Hunters
+C00893,15,14,4769.31,0,VIP / High-Value
+C00894,437,1,925.65,1,Low-Value / Deal Hunters
+C00895,100,5,1255.25,3,Low-Value / Deal Hunters
+C00896,3,20,8665.42,2,VIP / High-Value
+C00897,8,18,8471.55,2,VIP / High-Value
+C00898,17,18,10287.0,2,VIP / High-Value
+C00899,324,2,243.95999999999998,1,Low-Value / Deal Hunters
+C00900,10,13,5661.8,0,VIP / High-Value
+C00901,37,16,7980.110000000001,2,VIP / High-Value
+C00902,9,9,5002.51,0,VIP / High-Value
+C00903,28,8,3885.31,0,VIP / High-Value
+C00904,6,18,8388.54,2,VIP / High-Value
+C00905,42,5,1863.1,3,Low-Value / Deal Hunters
+C00906,7,18,6117.49,2,VIP / High-Value
+C00907,195,1,61.75,1,Low-Value / Deal Hunters
+C00908,179,5,2678.96,3,Low-Value / Deal Hunters
+C00909,88,16,7531.719999999999,2,VIP / High-Value
+C00910,20,12,5634.79,0,VIP / High-Value
+C00911,4,5,1513.62,3,Low-Value / Deal Hunters
+C00912,136,8,4994.44,0,VIP / High-Value
+C00913,47,9,3552.6400000000003,0,VIP / High-Value
+C00914,55,6,2518.83,3,Low-Value / Deal Hunters
+C00915,3,9,2675.9700000000003,0,VIP / High-Value
+C00916,3,15,8456.74,2,VIP / High-Value
+C00917,6,8,3849.83,0,VIP / High-Value
+C00918,36,8,4012.42,0,VIP / High-Value
+C00919,23,5,2477.27,3,Low-Value / Deal Hunters
+C00920,166,5,2595.4,3,Low-Value / Deal Hunters
+C00921,200,4,1931.15,1,Low-Value / Deal Hunters
+C00922,25,10,4412.6,0,VIP / High-Value
+C00923,13,2,741.3199999999999,3,Low-Value / Deal Hunters
+C00924,22,5,1082.54,3,Low-Value / Deal Hunters
+C00925,15,4,1104.55,3,Low-Value / Deal Hunters
+C00926,7,15,6444.740000000001,2,VIP / High-Value
+C00927,19,6,1853.71,3,Low-Value / Deal Hunters
+C00928,59,6,2485.25,3,Low-Value / Deal Hunters
+C00929,26,6,3426.8999999999996,3,Low-Value / Deal Hunters
+C00930,2,15,6194.54,2,VIP / High-Value
+C00931,95,11,4941.9,0,VIP / High-Value
+C00932,36,17,8045.3,2,VIP / High-Value
+C00933,8,20,9355.47,2,VIP / High-Value
+C00934,4,18,7092.66,2,VIP / High-Value
+C00935,51,2,668.26,3,Low-Value / Deal Hunters
+C00936,16,8,3289.27,0,VIP / High-Value
+C00937,29,14,4691.58,0,VIP / High-Value
+C00938,20,12,5510.5599999999995,0,VIP / High-Value
+C00939,17,3,1436.86,3,Low-Value / Deal Hunters
+C00940,55,15,6270.63,2,VIP / High-Value
+C00941,29,18,10568.96,2,VIP / High-Value
+C00942,26,8,3841.19,0,VIP / High-Value
+C00943,98,7,3330.9,3,Low-Value / Deal Hunters
+C00944,6,12,6618.53,0,VIP / High-Value
+C00945,54,13,5084.92,0,VIP / High-Value
+C00946,27,15,5451.71,0,VIP / High-Value
+C00947,86,7,4192.56,3,Low-Value / Deal Hunters
+C00948,23,4,1516.55,3,Low-Value / Deal Hunters
+C00949,44,1,158.82,3,Low-Value / Deal Hunters
+C00950,5,20,8347.61,2,VIP / High-Value
+C00951,102,4,1721.73,3,Low-Value / Deal Hunters
+C00952,18,9,5131.53,0,VIP / High-Value
+C00953,60,16,6805.45,2,VIP / High-Value
+C00954,48,20,7423.6900000000005,2,VIP / High-Value
+C00955,58,18,8381.23,2,VIP / High-Value
+C00956,5,18,9101.130000000001,2,VIP / High-Value
+C00957,54,5,2379.86,3,Low-Value / Deal Hunters
+C00958,236,1,100.81,1,Low-Value / Deal Hunters
+C00959,215,7,3937.04,1,Low-Value / Deal Hunters
+C00960,49,19,9438.84,2,VIP / High-Value
+C00961,7,16,6871.9400000000005,2,VIP / High-Value
+C00962,91,9,4603.13,0,VIP / High-Value
+C00963,29,9,4386.2,0,VIP / High-Value
+C00964,68,7,1540.25,3,Low-Value / Deal Hunters
+C00965,17,13,7416.84,2,VIP / High-Value
+C00966,16,17,7947.83,2,VIP / High-Value
+C00967,26,12,5974.0,0,VIP / High-Value
+C00968,10,18,9234.43,2,VIP / High-Value
+C00969,14,11,3149.66,0,VIP / High-Value
+C00970,242,4,1901.93,1,Low-Value / Deal Hunters
+C00971,32,9,5558.89,0,VIP / High-Value
+C00972,56,13,4285.25,0,VIP / High-Value
+C00973,2,11,4183.95,0,VIP / High-Value
+C00974,27,16,6764.38,2,VIP / High-Value
+C00975,23,11,6600.05,0,VIP / High-Value
+C00976,1,14,5810.37,0,VIP / High-Value
+C00977,12,19,6193.8099999999995,2,VIP / High-Value
+C00978,22,18,9460.6,2,VIP / High-Value
+C00979,3,5,1986.08,3,Low-Value / Deal Hunters
+C00980,34,10,3664.2700000000004,0,VIP / High-Value
+C00981,26,10,3527.98,0,VIP / High-Value
+C00982,69,19,8100.34,2,VIP / High-Value
+C00983,29,17,6870.16,2,VIP / High-Value
+C00984,182,4,2885.4,3,Low-Value / Deal Hunters
+C00985,38,7,3363.78,3,Low-Value / Deal Hunters
+C00986,134,4,2452.1400000000003,3,Low-Value / Deal Hunters
+C00987,21,9,3830.9,0,VIP / High-Value
+C00988,15,18,7906.08,2,VIP / High-Value
+C00989,120,1,218.8,3,Low-Value / Deal Hunters
+C00990,17,11,4724.92,0,VIP / High-Value
+C00991,413,1,364.17,1,Low-Value / Deal Hunters
+C00992,101,1,563.34,3,Low-Value / Deal Hunters
+C00993,46,16,8533.67,2,VIP / High-Value
+C00994,23,20,10622.46,2,VIP / High-Value
+C00995,17,9,3680.08,0,VIP / High-Value
+C00996,220,2,592.48,1,Low-Value / Deal Hunters
+C00997,97,4,1678.93,3,Low-Value / Deal Hunters
+C00998,179,2,484.40999999999997,1,Low-Value / Deal Hunters
+C00999,21,19,7463.72,2,VIP / High-Value
+C01000,16,15,6293.45,2,VIP / High-Value
+C01001,52,9,3611.39,0,VIP / High-Value
+C01002,12,15,9611.77,2,VIP / High-Value
+C01003,67,11,5318.87,0,VIP / High-Value
+C01004,88,3,1239.29,3,Low-Value / Deal Hunters
+C01005,52,3,568.3299999999999,3,Low-Value / Deal Hunters
+C01006,28,16,6582.81,2,VIP / High-Value
+C01007,36,13,5752.94,0,VIP / High-Value
+C01008,69,2,436.51,3,Low-Value / Deal Hunters
+C01009,6,19,8242.19,2,VIP / High-Value
+C01010,22,11,5437.19,0,VIP / High-Value
+C01011,7,7,2892.44,3,Low-Value / Deal Hunters
+C01012,91,5,2075.8,3,Low-Value / Deal Hunters
+C01013,14,19,9393.73,2,VIP / High-Value
+C01014,31,2,789.8499999999999,3,Low-Value / Deal Hunters
+C01015,383,1,1240.42,1,Low-Value / Deal Hunters
+C01016,151,2,1151.1399999999999,3,Low-Value / Deal Hunters
+C01017,32,5,2246.09,3,Low-Value / Deal Hunters
+C01018,11,12,5304.35,0,VIP / High-Value
+C01019,6,16,6573.9800000000005,2,VIP / High-Value
+C01020,44,11,4787.860000000001,0,VIP / High-Value
+C01021,114,2,1468.2,3,Low-Value / Deal Hunters
+C01022,36,7,3264.58,3,Low-Value / Deal Hunters
+C01023,148,1,390.26,3,Low-Value / Deal Hunters
+C01024,33,19,6795.5,2,VIP / High-Value
+C01025,33,14,5667.12,0,VIP / High-Value
+C01026,19,9,4927.17,0,VIP / High-Value
+C01027,47,3,649.27,3,Low-Value / Deal Hunters
+C01028,149,3,1164.4,3,Low-Value / Deal Hunters
+C01029,39,20,10566.07,2,VIP / High-Value
+C01030,152,4,991.0799999999999,3,Low-Value / Deal Hunters
+C01031,22,15,7121.51,2,VIP / High-Value
+C01032,4,18,7773.9800000000005,2,VIP / High-Value
+C01033,11,15,6893.71,2,VIP / High-Value
+C01034,21,17,5757.99,2,VIP / High-Value
+C01035,318,1,735.31,1,Low-Value / Deal Hunters
+C01036,44,5,2829.3,3,Low-Value / Deal Hunters
+C01037,28,11,6065.83,0,VIP / High-Value
+C01038,23,19,6412.01,2,VIP / High-Value
+C01039,18,6,2450.76,3,Low-Value / Deal Hunters
+C01040,11,10,4166.59,0,VIP / High-Value
+C01041,210,1,278.02,1,Low-Value / Deal Hunters
+C01042,19,8,3698.42,0,VIP / High-Value
+C01043,81,8,3523.47,3,Low-Value / Deal Hunters
+C01044,19,7,4640.22,0,VIP / High-Value
+C01045,80,5,2043.88,3,Low-Value / Deal Hunters
+C01046,175,4,3182.1,3,Low-Value / Deal Hunters
+C01047,4,8,3671.7200000000003,0,VIP / High-Value
+C01048,8,14,4674.5599999999995,0,VIP / High-Value
+C01049,51,7,2857.97,3,Low-Value / Deal Hunters
+C01050,102,4,1754.31,3,Low-Value / Deal Hunters
+C01051,15,7,3735.0299999999997,0,VIP / High-Value
+C01052,25,11,2590.9,0,VIP / High-Value
+C01053,103,11,5283.55,0,VIP / High-Value
+C01054,26,7,3613.97,0,VIP / High-Value
+C01055,145,6,2567.3,3,Low-Value / Deal Hunters
+C01056,1,15,7689.22,2,VIP / High-Value
+C01057,111,11,6575.0599999999995,0,VIP / High-Value
+C01058,68,15,7085.59,2,VIP / High-Value
+C01059,87,19,9003.7,2,VIP / High-Value
+C01060,56,5,1635.73,3,Low-Value / Deal Hunters
+C01061,50,7,3400.63,3,Low-Value / Deal Hunters
+C01062,13,7,1588.0700000000002,3,Low-Value / Deal Hunters
+C01063,26,18,9041.32,2,VIP / High-Value
+C01064,7,14,7024.46,2,VIP / High-Value
+C01065,45,16,5934.41,2,VIP / High-Value
+C01066,17,14,7544.28,2,VIP / High-Value
+C01067,12,14,6174.469999999999,0,VIP / High-Value
+C01068,79,6,2752.31,3,Low-Value / Deal Hunters
+C01069,45,3,1664.31,3,Low-Value / Deal Hunters
+C01070,36,10,4780.09,0,VIP / High-Value
+C01071,41,6,2537.48,3,Low-Value / Deal Hunters
+C01072,248,3,789.73,1,Low-Value / Deal Hunters
+C01073,12,9,3025.78,0,VIP / High-Value
+C01074,186,2,991.23,1,Low-Value / Deal Hunters
+C01075,2,18,8692.75,2,VIP / High-Value
+C01076,87,7,3331.38,3,Low-Value / Deal Hunters
+C01077,73,8,3067.41,3,Low-Value / Deal Hunters
+C01078,19,11,4363.09,0,VIP / High-Value
+C01079,25,11,2968.36,0,VIP / High-Value
+C01080,70,8,3332.22,3,Low-Value / Deal Hunters
+C01081,107,6,1893.6,3,Low-Value / Deal Hunters
+C01082,2,10,3416.83,0,VIP / High-Value
+C01083,4,12,4345.59,0,VIP / High-Value
+C01084,25,13,3964.91,0,VIP / High-Value
+C01085,14,20,9181.9,2,VIP / High-Value
+C01086,20,19,9268.46,2,VIP / High-Value
+C01087,55,7,2502.58,3,Low-Value / Deal Hunters
+C01088,115,4,1083.69,3,Low-Value / Deal Hunters
+C01089,4,20,8974.23,2,VIP / High-Value
+C01090,30,9,3271.31,0,VIP / High-Value
+C01091,6,7,3553.08,0,VIP / High-Value
+C01092,9,6,2276.2400000000002,3,Low-Value / Deal Hunters
+C01093,325,2,1247.52,1,Low-Value / Deal Hunters
+C01094,13,8,3834.5,0,VIP / High-Value
+C01095,19,18,5851.53,2,VIP / High-Value
+C01096,12,15,6654.66,2,VIP / High-Value
+C01097,8,18,7369.21,2,VIP / High-Value
+C01098,84,6,3535.07,3,Low-Value / Deal Hunters
+C01099,52,3,1325.0,3,Low-Value / Deal Hunters
+C01100,9,3,1525.47,3,Low-Value / Deal Hunters
+C01101,453,1,1248.11,1,Low-Value / Deal Hunters
+C01102,31,8,4684.22,0,VIP / High-Value
+C01103,316,1,153.73,1,Low-Value / Deal Hunters
+C01104,402,1,365.99,1,Low-Value / Deal Hunters
+C01105,66,1,143.67,3,Low-Value / Deal Hunters
+C01106,40,16,7637.28,2,VIP / High-Value
+C01107,1,19,9855.57,2,VIP / High-Value
+C01108,56,7,4943.21,0,VIP / High-Value
+C01109,19,9,4510.98,0,VIP / High-Value
+C01110,267,3,1230.9099999999999,1,Low-Value / Deal Hunters
+C01111,13,15,7523.849999999999,2,VIP / High-Value
+C01112,9,15,8398.05,2,VIP / High-Value
+C01113,89,5,2026.57,3,Low-Value / Deal Hunters
+C01114,32,12,5751.63,0,VIP / High-Value
+C01115,119,3,1582.0,3,Low-Value / Deal Hunters
+C01116,126,2,837.1,3,Low-Value / Deal Hunters
+C01117,101,8,5387.0599999999995,0,VIP / High-Value
+C01118,7,15,6275.39,2,VIP / High-Value
+C01119,17,19,8285.16,2,VIP / High-Value
+C01120,43,19,8468.85,2,VIP / High-Value
+C01121,96,17,7469.75,2,VIP / High-Value
+C01122,60,12,5044.950000000001,0,VIP / High-Value
+C01123,82,13,7746.99,2,VIP / High-Value
+C01124,3,7,3417.5099999999998,0,VIP / High-Value
+C01125,73,17,7601.38,2,VIP / High-Value
+C01126,4,3,1044.43,3,Low-Value / Deal Hunters
+C01127,15,18,9078.23,2,VIP / High-Value
+C01128,176,1,248.71,1,Low-Value / Deal Hunters
+C01129,180,8,3399.85,3,Low-Value / Deal Hunters
+C01130,85,7,2134.35,3,Low-Value / Deal Hunters
+C01131,10,13,4077.11,0,VIP / High-Value
+C01132,171,6,1766.6,3,Low-Value / Deal Hunters
+C01133,12,9,2872.54,0,VIP / High-Value
+C01134,33,20,9359.19,2,VIP / High-Value
+C01135,19,16,6742.85,2,VIP / High-Value
+C01136,6,12,4366.18,0,VIP / High-Value
+C01137,18,8,4964.639999999999,0,VIP / High-Value
+C01138,35,5,1775.01,3,Low-Value / Deal Hunters
+C01139,12,19,9177.84,2,VIP / High-Value
+C01140,80,5,1532.49,3,Low-Value / Deal Hunters
+C01141,2,5,2717.49,3,Low-Value / Deal Hunters
+C01142,90,8,4990.72,0,VIP / High-Value
+C01143,4,14,5481.26,0,VIP / High-Value
+C01144,8,15,5469.0,0,VIP / High-Value
+C01145,18,5,2542.02,3,Low-Value / Deal Hunters
+C01146,68,15,5705.09,0,VIP / High-Value
+C01147,34,20,10934.98,2,VIP / High-Value
+C01148,13,16,4827.3,0,VIP / High-Value
+C01149,56,16,8624.07,2,VIP / High-Value
+C01150,15,10,3366.63,0,VIP / High-Value
+C01151,24,15,5906.2300000000005,2,VIP / High-Value
+C01152,99,3,1018.96,3,Low-Value / Deal Hunters
+C01153,158,11,4683.11,0,VIP / High-Value
+C01154,59,6,1716.78,3,Low-Value / Deal Hunters
+C01155,58,13,7173.44,2,VIP / High-Value
+C01156,46,9,2815.53,0,VIP / High-Value
+C01157,170,9,4653.22,3,Low-Value / Deal Hunters
+C01158,128,3,993.37,3,Low-Value / Deal Hunters
+C01159,11,16,6062.16,2,VIP / High-Value
+C01160,43,12,5420.79,0,VIP / High-Value
+C01161,75,16,5684.43,2,VIP / High-Value
+C01162,353,3,900.27,1,Low-Value / Deal Hunters
+C01163,52,7,3586.37,3,Low-Value / Deal Hunters
+C01164,43,1,369.33,3,Low-Value / Deal Hunters
+C01165,3,20,8549.59,2,VIP / High-Value
+C01166,381,1,42.24,1,Low-Value / Deal Hunters
+C01167,20,7,3393.62,0,VIP / High-Value
+C01168,60,15,8332.619999999999,2,VIP / High-Value
+C01169,13,15,7734.59,2,VIP / High-Value
+C01170,92,11,5890.67,0,VIP / High-Value
+C01171,43,20,8784.23,2,VIP / High-Value
+C01172,57,17,5298.31,2,VIP / High-Value
+C01173,78,8,3547.81,3,Low-Value / Deal Hunters
+C01174,20,17,4582.9400000000005,0,VIP / High-Value
+C01175,7,13,4801.16,0,VIP / High-Value
+C01176,30,13,5509.48,0,VIP / High-Value
+C01177,37,9,5040.21,0,VIP / High-Value
+C01178,85,4,2027.19,3,Low-Value / Deal Hunters
+C01179,4,19,8774.48,2,VIP / High-Value
+C01180,25,18,4924.4,2,VIP / High-Value
+C01181,35,9,2793.69,0,VIP / High-Value
+C01182,39,19,10754.1,2,VIP / High-Value
+C01183,45,16,6471.45,2,VIP / High-Value
+C01184,86,10,5266.54,0,VIP / High-Value
+C01185,36,9,4468.71,0,VIP / High-Value
+C01186,74,1,336.37,3,Low-Value / Deal Hunters
+C01187,58,4,1810.57,3,Low-Value / Deal Hunters
+C01188,47,10,3788.55,0,VIP / High-Value
+C01189,66,12,5395.46,0,VIP / High-Value
+C01190,133,9,4201.95,0,VIP / High-Value
+C01191,49,14,8097.099999999999,2,VIP / High-Value
+C01192,5,16,7048.13,2,VIP / High-Value
+C01193,46,8,4529.3,0,VIP / High-Value
+C01194,23,14,6033.38,0,VIP / High-Value
+C01195,9,3,905.6500000000001,3,Low-Value / Deal Hunters
+C01196,187,2,1213.88,1,Low-Value / Deal Hunters
+C01197,53,8,4551.76,0,VIP / High-Value
+C01198,89,7,1936.24,3,Low-Value / Deal Hunters
+C01199,110,14,4040.66,0,VIP / High-Value
+C01200,21,14,5929.61,0,VIP / High-Value
+C01201,12,17,8445.97,2,VIP / High-Value
+C01202,10,1,131.43,3,Low-Value / Deal Hunters
+C01203,36,5,1641.75,3,Low-Value / Deal Hunters
+C01204,191,5,3441.36,1,Low-Value / Deal Hunters
+C01205,30,4,2485.8,3,Low-Value / Deal Hunters
+C01206,75,5,1505.34,3,Low-Value / Deal Hunters
+C01207,17,10,4176.61,0,VIP / High-Value
+C01208,7,2,625.52,3,Low-Value / Deal Hunters
+C01209,38,9,2862.96,0,VIP / High-Value
+C01210,143,8,2650.14,3,Low-Value / Deal Hunters
+C01211,158,1,659.25,3,Low-Value / Deal Hunters
+C01212,7,14,5113.36,0,VIP / High-Value
+C01213,88,8,3548.0,3,Low-Value / Deal Hunters
+C01214,6,17,7918.81,2,VIP / High-Value
+C01215,66,13,4358.06,0,VIP / High-Value
+C01216,55,14,4798.39,0,VIP / High-Value
+C01217,132,17,7236.42,2,VIP / High-Value
+C01218,14,13,5584.65,0,VIP / High-Value
+C01219,31,12,4965.53,0,VIP / High-Value
+C01220,22,13,5665.5,0,VIP / High-Value
+C01221,35,5,2773.36,3,Low-Value / Deal Hunters
+C01222,301,1,928.1,1,Low-Value / Deal Hunters
+C01223,38,11,2301.74,0,VIP / High-Value
+C01224,11,16,5965.55,2,VIP / High-Value
+C01225,20,11,3100.66,0,VIP / High-Value
+C01226,107,5,2161.32,3,Low-Value / Deal Hunters
+C01227,70,13,5523.02,0,VIP / High-Value
+C01228,4,15,6513.55,2,VIP / High-Value
+C01229,46,8,2128.49,3,Low-Value / Deal Hunters
+C01230,28,18,9000.15,2,VIP / High-Value
+C01231,12,17,5335.37,2,VIP / High-Value
+C01232,135,6,2628.41,3,Low-Value / Deal Hunters
+C01233,21,16,5862.34,2,VIP / High-Value
+C01234,136,11,5594.8,0,VIP / High-Value
+C01235,12,20,11970.67,2,VIP / High-Value
+C01236,3,9,3455.41,0,VIP / High-Value
+C01237,42,20,8179.08,2,VIP / High-Value
+C01238,5,18,9092.8,2,VIP / High-Value
+C01239,98,20,7703.139999999999,2,VIP / High-Value
+C01240,7,18,6867.92,2,VIP / High-Value
+C01241,15,12,6570.84,0,VIP / High-Value
+C01242,2,17,5534.91,2,VIP / High-Value
+C01243,26,18,8766.99,2,VIP / High-Value
+C01244,51,16,8981.85,2,VIP / High-Value
+C01245,8,19,8580.48,2,VIP / High-Value
+C01246,6,9,4062.5600000000004,0,VIP / High-Value
+C01247,4,18,9002.12,2,VIP / High-Value
+C01248,13,11,4780.46,0,VIP / High-Value
+C01249,10,10,3307.69,0,VIP / High-Value
+C01250,40,11,5277.97,0,VIP / High-Value
+C01251,283,6,1446.59,1,Low-Value / Deal Hunters
+C01252,17,16,6428.4800000000005,2,VIP / High-Value
+C01253,3,20,7885.0,2,VIP / High-Value
+C01254,30,15,8064.59,2,VIP / High-Value
+C01255,54,7,3950.21,0,VIP / High-Value
+C01256,8,16,5684.92,2,VIP / High-Value
+C01257,21,9,3910.42,0,VIP / High-Value
+C01258,1,1,125.52,3,Low-Value / Deal Hunters
+C01259,24,7,3276.86,3,Low-Value / Deal Hunters
+C01260,24,13,5704.4,0,VIP / High-Value
+C01261,2,10,5024.7,0,VIP / High-Value
+C01262,10,6,3283.98,3,Low-Value / Deal Hunters
+C01263,6,20,9261.47,2,VIP / High-Value
+C01264,177,6,3029.68,3,Low-Value / Deal Hunters
+C01265,291,2,1152.73,1,Low-Value / Deal Hunters
+C01266,17,7,4543.41,0,VIP / High-Value
+C01267,6,11,5632.79,0,VIP / High-Value
+C01268,44,9,4498.65,0,VIP / High-Value
+C01269,104,1,193.27,3,Low-Value / Deal Hunters
+C01270,63,16,7893.9400000000005,2,VIP / High-Value
+C01271,8,4,2278.1,3,Low-Value / Deal Hunters
+C01272,99,13,6507.8099999999995,0,VIP / High-Value
+C01273,4,5,1475.96,3,Low-Value / Deal Hunters
+C01274,156,4,2162.92,3,Low-Value / Deal Hunters
+C01275,20,5,1875.73,3,Low-Value / Deal Hunters
+C01276,16,12,5807.6,0,VIP / High-Value
+C01277,29,4,1842.8600000000001,3,Low-Value / Deal Hunters
+C01278,105,7,3618.17,3,Low-Value / Deal Hunters
+C01279,25,11,5795.08,0,VIP / High-Value
+C01280,22,13,5142.97,0,VIP / High-Value
+C01281,52,12,5088.83,0,VIP / High-Value
+C01282,35,16,6078.87,2,VIP / High-Value
+C01283,26,13,4926.98,0,VIP / High-Value
+C01284,30,10,3121.7400000000002,0,VIP / High-Value
+C01285,55,12,4308.62,0,VIP / High-Value
+C01286,7,6,3655.83,3,Low-Value / Deal Hunters
+C01287,47,18,8510.44,2,VIP / High-Value
+C01288,8,15,8349.71,2,VIP / High-Value
+C01289,12,19,10468.880000000001,2,VIP / High-Value
+C01290,34,18,8267.99,2,VIP / High-Value
+C01291,14,9,3166.92,0,VIP / High-Value
+C01292,23,18,7583.19,2,VIP / High-Value
+C01293,90,7,3830.45,3,Low-Value / Deal Hunters
+C01294,154,3,1233.03,3,Low-Value / Deal Hunters
+C01295,74,18,10547.73,2,VIP / High-Value
+C01296,3,14,5019.38,0,VIP / High-Value
+C01297,15,12,6265.0,0,VIP / High-Value
+C01298,19,4,1266.16,3,Low-Value / Deal Hunters
+C01299,3,8,2354.08,3,Low-Value / Deal Hunters
+C01300,340,2,1039.96,1,Low-Value / Deal Hunters
+C01301,24,5,2284.1800000000003,3,Low-Value / Deal Hunters
+C01302,39,17,6552.32,2,VIP / High-Value
+C01303,2,14,6778.12,2,VIP / High-Value
+C01304,131,3,1239.3,3,Low-Value / Deal Hunters
+C01305,5,10,3818.01,0,VIP / High-Value
+C01306,64,9,3448.77,0,VIP / High-Value
+C01307,11,11,4782.6,0,VIP / High-Value
+C01308,32,13,6850.13,2,VIP / High-Value
+C01309,29,17,7170.3,2,VIP / High-Value
+C01310,21,19,5366.09,2,VIP / High-Value
+C01311,8,2,469.23,3,Low-Value / Deal Hunters
+C01312,3,18,5712.54,2,VIP / High-Value
+C01313,114,14,4407.15,0,VIP / High-Value
+C01314,256,4,2088.87,1,Low-Value / Deal Hunters
+C01315,12,12,7041.09,0,VIP / High-Value
+C01316,39,11,5123.79,0,VIP / High-Value
+C01317,40,12,4284.69,0,VIP / High-Value
+C01318,6,20,9269.6,2,VIP / High-Value
+C01319,3,17,5536.08,2,VIP / High-Value
+C01320,11,10,5328.0599999999995,0,VIP / High-Value
+C01321,10,18,6053.81,2,VIP / High-Value
+C01322,100,10,3111.25,0,VIP / High-Value
+C01323,26,17,11134.73,2,VIP / High-Value
+C01324,12,10,3747.92,0,VIP / High-Value
+C01325,160,3,1074.18,3,Low-Value / Deal Hunters
+C01326,52,9,5107.88,0,VIP / High-Value
+C01327,16,4,2474.94,3,Low-Value / Deal Hunters
+C01328,19,14,6134.95,0,VIP / High-Value
+C01329,15,12,6591.84,0,VIP / High-Value
+C01330,36,10,4209.84,0,VIP / High-Value
+C01331,48,11,4709.33,0,VIP / High-Value
+C01332,19,14,7598.77,2,VIP / High-Value
+C01333,7,20,9454.34,2,VIP / High-Value
+C01334,10,7,3637.13,0,VIP / High-Value
+C01335,59,4,2436.87,3,Low-Value / Deal Hunters
+C01336,37,17,7015.05,2,VIP / High-Value
+C01337,112,11,4844.81,0,VIP / High-Value
+C01338,99,6,3024.9500000000003,3,Low-Value / Deal Hunters
+C01339,11,2,812.82,3,Low-Value / Deal Hunters
+C01340,5,20,7616.0,2,VIP / High-Value
+C01341,208,5,3171.35,1,Low-Value / Deal Hunters
+C01342,65,14,7297.14,2,VIP / High-Value
+C01343,5,9,4166.38,0,VIP / High-Value
+C01344,83,18,9061.98,2,VIP / High-Value
+C01345,37,20,8750.460000000001,2,VIP / High-Value
+C01346,51,6,2402.83,3,Low-Value / Deal Hunters
+C01347,85,16,5699.4,2,VIP / High-Value
+C01348,370,1,700.22,1,Low-Value / Deal Hunters
+C01349,128,1,233.87,3,Low-Value / Deal Hunters
+C01350,119,1,218.78,3,Low-Value / Deal Hunters
+C01351,17,11,5903.86,0,VIP / High-Value
+C01352,18,19,10777.61,2,VIP / High-Value
+C01353,50,19,7436.94,2,VIP / High-Value
+C01354,5,6,2088.76,3,Low-Value / Deal Hunters
+C01355,33,7,6126.97,0,VIP / High-Value
+C01356,8,8,3664.12,0,VIP / High-Value
+C01357,53,18,6300.0,2,VIP / High-Value
+C01358,21,15,8585.44,2,VIP / High-Value
+C01359,46,17,6289.57,2,VIP / High-Value
+C01360,23,15,7264.41,2,VIP / High-Value
+C01361,9,9,3584.68,0,VIP / High-Value
+C01362,8,20,7779.02,2,VIP / High-Value
+C01363,6,9,4559.58,0,VIP / High-Value
+C01364,170,4,2936.7,3,Low-Value / Deal Hunters
+C01365,39,19,7517.74,2,VIP / High-Value
+C01366,23,17,6964.36,2,VIP / High-Value
+C01367,12,6,2026.22,3,Low-Value / Deal Hunters
+C01368,40,8,2859.35,3,Low-Value / Deal Hunters
+C01369,16,9,5473.5,0,VIP / High-Value
+C01370,25,10,4634.77,0,VIP / High-Value
+C01371,94,4,2953.17,3,Low-Value / Deal Hunters
+C01372,22,20,7899.42,2,VIP / High-Value
+C01373,5,2,887.75,3,Low-Value / Deal Hunters
+C01374,49,11,4660.3,0,VIP / High-Value
+C01375,47,15,7377.29,2,VIP / High-Value
+C01376,36,19,7129.75,2,VIP / High-Value
+C01377,20,16,6587.97,2,VIP / High-Value
+C01378,39,11,3263.49,0,VIP / High-Value
+C01379,5,14,4743.42,0,VIP / High-Value
+C01380,13,19,10142.630000000001,2,VIP / High-Value
+C01381,7,19,8384.73,2,VIP / High-Value
+C01382,48,19,8771.41,2,VIP / High-Value
+C01383,1,19,10326.99,2,VIP / High-Value
+C01384,93,4,1931.34,3,Low-Value / Deal Hunters
+C01385,195,2,693.5699999999999,1,Low-Value / Deal Hunters
+C01386,397,1,856.5,1,Low-Value / Deal Hunters
+C01387,67,7,3096.42,3,Low-Value / Deal Hunters
+C01388,11,18,7165.58,2,VIP / High-Value
+C01389,333,2,1349.96,1,Low-Value / Deal Hunters
+C01390,153,1,390.1,3,Low-Value / Deal Hunters
+C01391,53,10,4000.61,0,VIP / High-Value
+C01392,233,1,571.14,1,Low-Value / Deal Hunters
+C01393,6,14,7155.75,2,VIP / High-Value
+C01394,56,13,5625.13,0,VIP / High-Value
+C01395,13,9,5167.299999999999,0,VIP / High-Value
+C01396,15,11,5141.8,0,VIP / High-Value
+C01397,30,9,4066.26,0,VIP / High-Value
+C01398,17,19,7348.34,2,VIP / High-Value
+C01399,4,16,7095.5,2,VIP / High-Value
+C01400,6,14,4420.0,0,VIP / High-Value
+C01401,3,13,9197.51,2,VIP / High-Value
+C01402,164,8,2630.0299999999997,3,Low-Value / Deal Hunters
+C01403,63,15,4110.71,0,VIP / High-Value
+C01404,100,13,6103.28,0,VIP / High-Value
+C01405,146,8,4242.41,3,Low-Value / Deal Hunters
+C01406,61,5,1387.85,3,Low-Value / Deal Hunters
+C01407,2,14,6941.139999999999,2,VIP / High-Value
+C01408,7,11,4629.77,0,VIP / High-Value
+C01409,50,4,2421.08,3,Low-Value / Deal Hunters
+C01410,11,15,5460.49,0,VIP / High-Value
+C01411,81,14,5201.139999999999,0,VIP / High-Value
+C01412,21,10,2896.83,0,VIP / High-Value
+C01413,74,9,3298.63,0,VIP / High-Value
+C01414,171,1,1152.97,3,Low-Value / Deal Hunters
+C01415,25,6,2183.8199999999997,3,Low-Value / Deal Hunters
+C01416,162,4,2348.3199999999997,3,Low-Value / Deal Hunters
+C01417,30,11,5562.54,0,VIP / High-Value
+C01418,26,12,4366.82,0,VIP / High-Value
+C01419,119,8,3264.8500000000004,3,Low-Value / Deal Hunters
+C01420,57,4,2380.13,3,Low-Value / Deal Hunters
+C01421,43,15,6170.1,2,VIP / High-Value
+C01422,13,17,9037.08,2,VIP / High-Value
+C01423,11,13,5978.5,0,VIP / High-Value
+C01424,2,4,2733.6400000000003,3,Low-Value / Deal Hunters
+C01425,8,4,1504.29,3,Low-Value / Deal Hunters
+C01426,83,8,2264.81,3,Low-Value / Deal Hunters
+C01427,4,3,969.29,3,Low-Value / Deal Hunters
+C01428,134,11,5113.84,0,VIP / High-Value
+C01429,366,1,992.7,1,Low-Value / Deal Hunters
+C01430,194,5,2189.7200000000003,1,Low-Value / Deal Hunters
+C01431,27,14,3606.9,0,VIP / High-Value
+C01432,42,11,6145.0,0,VIP / High-Value
+C01433,5,10,3450.75,0,VIP / High-Value
+C01434,67,6,1917.24,3,Low-Value / Deal Hunters
+C01435,14,15,6228.34,2,VIP / High-Value
+C01436,16,19,5026.04,2,VIP / High-Value
+C01437,22,19,7141.44,2,VIP / High-Value
+C01438,37,18,5531.64,2,VIP / High-Value
+C01439,137,12,3966.23,0,VIP / High-Value
+C01440,52,8,3194.72,3,Low-Value / Deal Hunters
+C01441,138,7,4641.09,3,Low-Value / Deal Hunters
+C01442,46,9,3379.33,0,VIP / High-Value
+C01443,117,5,1160.12,3,Low-Value / Deal Hunters
+C01444,21,16,6539.86,2,VIP / High-Value
+C01445,30,9,3155.8,0,VIP / High-Value
+C01446,6,15,6174.78,2,VIP / High-Value
+C01447,20,20,9096.81,2,VIP / High-Value
+C01448,105,9,3654.51,3,Low-Value / Deal Hunters
+C01449,44,16,10397.33,2,VIP / High-Value
+C01450,25,3,661.96,3,Low-Value / Deal Hunters
+C01451,90,13,3863.06,0,VIP / High-Value
+C01452,171,3,1378.06,3,Low-Value / Deal Hunters
+C01453,7,7,1696.85,3,Low-Value / Deal Hunters
+C01454,104,3,1395.55,3,Low-Value / Deal Hunters
+C01455,49,8,3592.26,0,VIP / High-Value
+C01456,110,5,2278.19,3,Low-Value / Deal Hunters
+C01457,131,2,1255.22,3,Low-Value / Deal Hunters
+C01458,20,13,6415.7,0,VIP / High-Value
+C01459,55,15,7327.89,2,VIP / High-Value
+C01460,42,5,917.66,3,Low-Value / Deal Hunters
+C01461,27,15,6327.53,2,VIP / High-Value
+C01462,48,20,8449.21,2,VIP / High-Value
+C01463,14,3,1124.68,3,Low-Value / Deal Hunters
+C01464,37,9,4875.99,0,VIP / High-Value
+C01465,27,19,10946.53,2,VIP / High-Value
+C01466,392,1,790.18,1,Low-Value / Deal Hunters
+C01467,101,5,2103.7799999999997,3,Low-Value / Deal Hunters
+C01468,8,11,4758.86,0,VIP / High-Value
+C01469,32,12,6042.719999999999,0,VIP / High-Value
+C01470,12,17,7316.1,2,VIP / High-Value
+C01471,8,10,3567.2999999999997,0,VIP / High-Value
+C01472,438,1,870.58,1,Low-Value / Deal Hunters
+C01473,37,8,3584.23,0,VIP / High-Value
+C01474,12,5,1277.65,3,Low-Value / Deal Hunters
+C01475,63,13,4295.3099999999995,0,VIP / High-Value
+C01476,318,4,2586.92,1,Low-Value / Deal Hunters
+C01477,314,2,1112.56,1,Low-Value / Deal Hunters
+C01478,17,19,5649.91,2,VIP / High-Value
+C01479,27,7,5795.3,0,VIP / High-Value
+C01480,13,14,7958.58,2,VIP / High-Value
+C01481,227,2,870.04,1,Low-Value / Deal Hunters
+C01482,51,5,1093.76,3,Low-Value / Deal Hunters
+C01483,47,8,2340.1,3,Low-Value / Deal Hunters
+C01484,67,6,2891.3199999999997,3,Low-Value / Deal Hunters
+C01485,44,16,7323.08,2,VIP / High-Value
+C01486,19,6,3408.15,3,Low-Value / Deal Hunters
+C01487,31,5,2619.84,3,Low-Value / Deal Hunters
+C01488,1,2,1614.63,3,Low-Value / Deal Hunters
+C01489,43,13,4342.27,0,VIP / High-Value
+C01490,11,18,3646.73,0,VIP / High-Value
+C01491,14,15,7226.29,2,VIP / High-Value
+C01492,41,3,668.3000000000001,3,Low-Value / Deal Hunters
+C01493,23,18,9916.7,2,VIP / High-Value
+C01494,321,1,434.18,1,Low-Value / Deal Hunters
+C01495,3,19,11363.95,2,VIP / High-Value
+C01496,63,4,1589.45,3,Low-Value / Deal Hunters
+C01497,4,16,6242.69,2,VIP / High-Value
+C01498,37,4,2619.84,3,Low-Value / Deal Hunters
+C01499,245,4,1545.7199999999998,1,Low-Value / Deal Hunters
+C01500,37,8,4447.75,0,VIP / High-Value
+C01501,9,15,8618.57,2,VIP / High-Value
+C01502,14,15,4304.94,0,VIP / High-Value
+C01503,20,6,2395.04,3,Low-Value / Deal Hunters
+C01504,56,14,4838.27,0,VIP / High-Value
+C01505,19,6,2153.0099999999998,3,Low-Value / Deal Hunters
+C01506,48,14,6851.71,2,VIP / High-Value
+C01507,30,10,4323.76,0,VIP / High-Value
+C01508,119,1,130.65,3,Low-Value / Deal Hunters
+C01509,35,2,1085.62,3,Low-Value / Deal Hunters
+C01510,19,15,8242.68,2,VIP / High-Value
+C01511,25,4,1589.67,3,Low-Value / Deal Hunters
+C01512,71,4,1735.83,3,Low-Value / Deal Hunters
+C01513,36,6,3448.04,3,Low-Value / Deal Hunters
+C01514,14,20,7643.49,2,VIP / High-Value
+C01515,40,9,2741.58,0,VIP / High-Value
+C01516,85,14,5238.24,0,VIP / High-Value
+C01517,240,2,1295.55,1,Low-Value / Deal Hunters
+C01518,48,7,2816.72,3,Low-Value / Deal Hunters
+C01519,23,2,1196.8400000000001,3,Low-Value / Deal Hunters
+C01520,40,19,7400.24,2,VIP / High-Value
+C01521,79,7,2592.25,3,Low-Value / Deal Hunters
+C01522,28,12,6178.61,0,VIP / High-Value
+C01523,214,4,2190.25,1,Low-Value / Deal Hunters
+C01524,55,7,3519.65,3,Low-Value / Deal Hunters
+C01525,43,12,5974.76,0,VIP / High-Value
+C01526,7,19,6882.51,2,VIP / High-Value
+C01527,12,19,10636.52,2,VIP / High-Value
+C01528,53,18,7417.77,2,VIP / High-Value
+C01529,7,7,1895.7,3,Low-Value / Deal Hunters
+C01530,7,18,6735.599999999999,2,VIP / High-Value
+C01531,286,1,509.22,1,Low-Value / Deal Hunters
+C01532,18,18,9119.84,2,VIP / High-Value
+C01533,12,8,3801.5299999999997,0,VIP / High-Value
+C01534,43,17,7173.87,2,VIP / High-Value
+C01535,447,1,323.59,1,Low-Value / Deal Hunters
+C01536,4,16,7630.21,2,VIP / High-Value
+C01537,6,3,1595.8200000000002,3,Low-Value / Deal Hunters
+C01538,18,17,7378.139999999999,2,VIP / High-Value
+C01539,17,5,2277.46,3,Low-Value / Deal Hunters
+C01540,3,15,7620.16,2,VIP / High-Value
+C01541,31,8,2722.7500000000005,3,Low-Value / Deal Hunters
+C01542,1,15,6136.42,2,VIP / High-Value
+C01543,4,17,6243.13,2,VIP / High-Value
+C01544,108,13,6493.27,0,VIP / High-Value
+C01545,4,15,5000.74,0,VIP / High-Value
+C01546,125,6,3609.39,3,Low-Value / Deal Hunters
+C01547,24,14,6220.96,0,VIP / High-Value
+C01548,34,13,7138.26,2,VIP / High-Value
+C01549,136,3,1513.54,3,Low-Value / Deal Hunters
+C01550,44,5,1167.54,3,Low-Value / Deal Hunters
+C01551,14,13,5833.35,0,VIP / High-Value
+C01552,6,12,5622.55,0,VIP / High-Value
+C01553,45,19,9436.52,2,VIP / High-Value
+C01554,123,15,6884.07,2,VIP / High-Value
+C01555,53,5,1902.96,3,Low-Value / Deal Hunters
+C01556,17,12,4263.56,0,VIP / High-Value
+C01557,117,9,4450.17,0,VIP / High-Value
+C01558,107,5,2570.7200000000003,3,Low-Value / Deal Hunters
+C01559,23,14,6235.51,0,VIP / High-Value
+C01560,39,6,1611.12,3,Low-Value / Deal Hunters
+C01561,119,6,2097.59,3,Low-Value / Deal Hunters
+C01562,93,2,558.18,3,Low-Value / Deal Hunters
+C01563,10,9,4826.68,0,VIP / High-Value
+C01564,41,8,5747.2,0,VIP / High-Value
+C01565,36,13,7391.08,2,VIP / High-Value
+C01566,7,14,7517.38,2,VIP / High-Value
+C01567,223,1,310.44,1,Low-Value / Deal Hunters
+C01568,13,5,3076.0499999999997,3,Low-Value / Deal Hunters
+C01569,49,18,7676.91,2,VIP / High-Value
+C01570,26,18,6884.47,2,VIP / High-Value
+C01571,26,9,2706.27,0,VIP / High-Value
+C01572,114,4,581.6700000000001,3,Low-Value / Deal Hunters
+C01573,29,15,7286.17,2,VIP / High-Value
+C01574,16,10,5593.49,0,VIP / High-Value
+C01575,1,11,4907.89,0,VIP / High-Value
+C01576,130,10,4242.610000000001,0,VIP / High-Value
+C01577,1,15,5349.33,0,VIP / High-Value
+C01578,165,2,1558.22,3,Low-Value / Deal Hunters
+C01579,20,20,6596.93,2,VIP / High-Value
+C01580,22,10,6230.36,0,VIP / High-Value
+C01581,11,10,3795.58,0,VIP / High-Value
+C01582,1,16,8364.58,2,VIP / High-Value
+C01583,31,4,2077.42,3,Low-Value / Deal Hunters
+C01584,29,17,7303.2,2,VIP / High-Value
+C01585,113,5,1800.08,3,Low-Value / Deal Hunters
+C01586,74,10,4903.81,0,VIP / High-Value
+C01587,19,16,6355.72,2,VIP / High-Value
+C01588,58,16,9494.64,2,VIP / High-Value
+C01589,6,18,7989.41,2,VIP / High-Value
+C01590,20,7,4060.9100000000003,0,VIP / High-Value
+C01591,23,12,5029.8,0,VIP / High-Value
+C01592,25,19,7079.62,2,VIP / High-Value
+C01593,44,11,3477.48,0,VIP / High-Value
+C01594,50,11,4447.38,0,VIP / High-Value
+C01595,16,5,1654.87,3,Low-Value / Deal Hunters
+C01596,399,2,1037.6,1,Low-Value / Deal Hunters
+C01597,172,4,1326.06,3,Low-Value / Deal Hunters
+C01598,61,14,3909.24,0,VIP / High-Value
+C01599,19,10,5415.24,0,VIP / High-Value
+C01600,19,7,3559.21,0,VIP / High-Value
+C01601,47,19,7021.32,2,VIP / High-Value
+C01602,7,14,6564.51,2,VIP / High-Value
+C01603,68,4,2444.25,3,Low-Value / Deal Hunters
+C01604,26,10,4136.5199999999995,0,VIP / High-Value
+C01605,2,6,2902.16,3,Low-Value / Deal Hunters
+C01606,107,13,6028.04,0,VIP / High-Value
+C01607,22,16,8644.43,2,VIP / High-Value
+C01608,61,2,815.05,3,Low-Value / Deal Hunters
+C01609,31,12,3962.9,0,VIP / High-Value
+C01610,53,6,2775.25,3,Low-Value / Deal Hunters
+C01611,34,11,4762.1900000000005,0,VIP / High-Value
+C01612,52,19,8484.06,2,VIP / High-Value
+C01613,9,20,8289.6,2,VIP / High-Value
+C01614,38,16,8263.6,2,VIP / High-Value
+C01615,23,8,3688.46,0,VIP / High-Value
+C01616,75,18,5959.37,2,VIP / High-Value
+C01617,24,17,4966.36,0,VIP / High-Value
+C01618,74,6,1342.39,3,Low-Value / Deal Hunters
+C01619,8,17,6471.22,2,VIP / High-Value
+C01620,33,4,2489.04,3,Low-Value / Deal Hunters
+C01621,82,12,4248.7300000000005,0,VIP / High-Value
+C01622,8,6,2484.34,3,Low-Value / Deal Hunters
+C01623,235,6,3527.52,1,Low-Value / Deal Hunters
+C01624,13,11,4023.96,0,VIP / High-Value
+C01625,7,11,4053.27,0,VIP / High-Value
+C01626,19,9,4803.1900000000005,0,VIP / High-Value
+C01627,19,15,6547.83,2,VIP / High-Value
+C01628,28,3,1421.0900000000001,3,Low-Value / Deal Hunters
+C01629,250,1,187.78,1,Low-Value / Deal Hunters
+C01630,34,11,6074.65,0,VIP / High-Value
+C01631,21,3,1947.47,3,Low-Value / Deal Hunters
+C01632,315,1,730.94,1,Low-Value / Deal Hunters
+C01633,36,14,6294.92,0,VIP / High-Value
+C01634,106,3,1877.29,3,Low-Value / Deal Hunters
+C01635,63,3,812.17,3,Low-Value / Deal Hunters
+C01636,59,3,467.72,3,Low-Value / Deal Hunters
+C01637,7,15,5344.26,0,VIP / High-Value
+C01638,26,11,4834.38,0,VIP / High-Value
+C01639,93,13,6625.04,0,VIP / High-Value
+C01640,17,17,9048.95,2,VIP / High-Value
+C01641,10,12,4643.49,0,VIP / High-Value
+C01642,22,16,9109.0,2,VIP / High-Value
+C01643,29,19,10361.39,2,VIP / High-Value
+C01644,76,5,1525.05,3,Low-Value / Deal Hunters
+C01645,96,11,4453.86,0,VIP / High-Value
+C01646,36,19,8206.34,2,VIP / High-Value
+C01647,47,4,1118.66,3,Low-Value / Deal Hunters
+C01648,2,14,7284.9800000000005,2,VIP / High-Value
+C01649,3,19,8447.56,2,VIP / High-Value
+C01650,16,2,546.08,3,Low-Value / Deal Hunters
+C01651,28,19,6509.58,2,VIP / High-Value
+C01652,40,3,872.78,3,Low-Value / Deal Hunters
+C01653,70,8,3508.91,3,Low-Value / Deal Hunters
+C01654,439,1,182.22,1,Low-Value / Deal Hunters
+C01655,31,16,5920.37,2,VIP / High-Value
+C01656,57,8,3014.0299999999997,3,Low-Value / Deal Hunters
+C01657,91,18,6638.33,2,VIP / High-Value
+C01658,74,6,2618.46,3,Low-Value / Deal Hunters
+C01659,70,14,5453.14,0,VIP / High-Value
+C01660,6,16,6581.18,2,VIP / High-Value
+C01661,89,5,1949.1000000000001,3,Low-Value / Deal Hunters
+C01662,146,4,2848.92,3,Low-Value / Deal Hunters
+C01663,68,11,4821.6,0,VIP / High-Value
+C01664,11,10,4738.2,0,VIP / High-Value
+C01665,97,8,3621.32,3,Low-Value / Deal Hunters
+C01666,232,4,2775.39,1,Low-Value / Deal Hunters
+C01667,398,1,92.97,1,Low-Value / Deal Hunters
+C01668,11,12,4248.0,0,VIP / High-Value
+C01669,24,14,6817.26,2,VIP / High-Value
+C01670,97,17,9150.460000000001,2,VIP / High-Value
+C01671,65,8,4521.47,0,VIP / High-Value
+C01672,71,5,4127.33,3,Low-Value / Deal Hunters
+C01673,13,16,8020.57,2,VIP / High-Value
+C01674,13,17,7488.99,2,VIP / High-Value
+C01675,14,16,7515.74,2,VIP / High-Value
+C01676,12,17,6177.72,2,VIP / High-Value
+C01677,38,7,2631.57,3,Low-Value / Deal Hunters
+C01678,22,14,5569.85,0,VIP / High-Value
+C01679,10,20,8476.71,2,VIP / High-Value
+C01680,53,18,6057.04,2,VIP / High-Value
+C01681,62,15,6630.96,2,VIP / High-Value
+C01682,31,5,1137.8400000000001,3,Low-Value / Deal Hunters
+C01683,99,18,7604.5,2,VIP / High-Value
+C01684,2,20,10504.539999999999,2,VIP / High-Value
+C01685,21,8,4838.47,0,VIP / High-Value
+C01686,198,4,2564.55,1,Low-Value / Deal Hunters
+C01687,22,13,4357.5599999999995,0,VIP / High-Value
+C01688,4,8,3464.62,0,VIP / High-Value
+C01689,15,12,6935.35,0,VIP / High-Value
+C01690,59,11,3409.38,0,VIP / High-Value
+C01691,20,7,3263.55,3,Low-Value / Deal Hunters
+C01692,10,12,4062.15,0,VIP / High-Value
+C01693,4,19,6814.09,2,VIP / High-Value
+C01694,6,17,8813.08,2,VIP / High-Value
+C01695,43,4,1191.28,3,Low-Value / Deal Hunters
+C01696,8,20,10381.39,2,VIP / High-Value
+C01697,135,9,4193.32,0,VIP / High-Value
+C01698,1,20,9002.65,2,VIP / High-Value
+C01699,61,14,4808.139999999999,0,VIP / High-Value
+C01700,15,13,4201.54,0,VIP / High-Value
+C01701,110,10,4507.44,0,VIP / High-Value
+C01702,136,5,1835.8600000000001,3,Low-Value / Deal Hunters
+C01703,18,13,4422.46,0,VIP / High-Value
+C01704,13,15,6258.16,2,VIP / High-Value
+C01705,443,1,178.86,1,Low-Value / Deal Hunters
+C01706,48,15,9943.72,2,VIP / High-Value
+C01707,81,19,9203.95,2,VIP / High-Value
+C01708,11,14,5115.91,0,VIP / High-Value
+C01709,115,2,784.06,3,Low-Value / Deal Hunters
+C01710,68,4,1623.48,3,Low-Value / Deal Hunters
+C01711,5,11,7097.610000000001,0,VIP / High-Value
+C01712,3,14,7384.46,2,VIP / High-Value
+C01713,33,13,6092.610000000001,0,VIP / High-Value
+C01714,93,6,3467.51,3,Low-Value / Deal Hunters
+C01715,5,4,1990.6599999999999,3,Low-Value / Deal Hunters
+C01716,51,7,3312.76,3,Low-Value / Deal Hunters
+C01717,11,18,9444.42,2,VIP / High-Value
+C01718,31,7,2035.59,3,Low-Value / Deal Hunters
+C01719,11,10,4255.3099999999995,0,VIP / High-Value
+C01720,14,19,6280.63,2,VIP / High-Value
+C01721,55,4,2449.8399999999997,3,Low-Value / Deal Hunters
+C01722,85,17,5704.16,2,VIP / High-Value
+C01723,23,19,9930.6,2,VIP / High-Value
+C01724,58,9,2275.13,3,Low-Value / Deal Hunters
+C01725,27,8,2820.23,3,Low-Value / Deal Hunters
+C01726,79,9,3333.92,0,VIP / High-Value
+C01727,5,8,5076.71,0,VIP / High-Value
+C01728,72,5,3817.59,3,Low-Value / Deal Hunters
+C01729,39,14,5972.66,0,VIP / High-Value
+C01730,14,7,3398.48,0,VIP / High-Value
+C01731,20,13,6075.39,0,VIP / High-Value
+C01732,9,12,4323.3,0,VIP / High-Value
+C01733,144,4,1416.61,3,Low-Value / Deal Hunters
+C01734,3,18,7287.58,2,VIP / High-Value
+C01735,52,3,953.6,3,Low-Value / Deal Hunters
+C01736,52,3,2264.0299999999997,3,Low-Value / Deal Hunters
+C01737,184,1,1332.85,1,Low-Value / Deal Hunters
+C01738,11,20,8589.59,2,VIP / High-Value
+C01739,42,6,2364.44,3,Low-Value / Deal Hunters
+C01740,38,14,7837.54,2,VIP / High-Value
+C01741,23,11,4069.2599999999998,0,VIP / High-Value
+C01742,88,12,6075.14,0,VIP / High-Value
+C01743,13,9,2452.93,0,VIP / High-Value
+C01744,244,2,706.2,1,Low-Value / Deal Hunters
+C01745,137,3,973.3799999999999,3,Low-Value / Deal Hunters
+C01746,8,19,8060.41,2,VIP / High-Value
+C01747,1,18,8739.44,2,VIP / High-Value
+C01748,7,16,6501.52,2,VIP / High-Value
+C01749,8,18,7273.87,2,VIP / High-Value
+C01750,53,13,6032.3,0,VIP / High-Value
+C01751,44,8,1972.19,3,Low-Value / Deal Hunters
+C01752,13,16,5594.47,2,VIP / High-Value
+C01753,78,12,6173.95,0,VIP / High-Value
+C01754,22,5,2667.29,3,Low-Value / Deal Hunters
+C01755,3,16,4512.0,0,VIP / High-Value
+C01756,13,9,5833.54,0,VIP / High-Value
+C01757,36,19,6901.48,2,VIP / High-Value
+C01758,36,12,4735.58,0,VIP / High-Value
+C01759,2,5,2553.33,3,Low-Value / Deal Hunters
+C01760,230,3,1251.21,1,Low-Value / Deal Hunters
+C01761,50,14,5536.45,0,VIP / High-Value
+C01762,52,17,4970.93,0,VIP / High-Value
+C01763,27,10,4643.04,0,VIP / High-Value
+C01764,41,17,6380.95,2,VIP / High-Value
+C01765,45,8,2893.54,3,Low-Value / Deal Hunters
+C01766,41,20,8994.55,2,VIP / High-Value
+C01767,279,2,835.72,1,Low-Value / Deal Hunters
+C01768,35,6,2470.4,3,Low-Value / Deal Hunters
+C01769,42,3,1502.8899999999999,3,Low-Value / Deal Hunters
+C01770,62,9,5616.74,0,VIP / High-Value
+C01771,1,6,1513.75,3,Low-Value / Deal Hunters
+C01772,29,13,4189.21,0,VIP / High-Value
+C01773,20,19,8853.04,2,VIP / High-Value
+C01774,7,17,8682.89,2,VIP / High-Value
+C01775,9,10,5781.86,0,VIP / High-Value
+C01776,26,18,7759.05,2,VIP / High-Value
+C01777,56,16,7106.0,2,VIP / High-Value
+C01778,119,3,880.8299999999999,3,Low-Value / Deal Hunters
+C01779,281,1,709.65,1,Low-Value / Deal Hunters
+C01780,25,9,3820.99,0,VIP / High-Value
+C01781,1,19,8588.86,2,VIP / High-Value
+C01782,8,3,1975.4399999999998,3,Low-Value / Deal Hunters
+C01783,8,15,9410.16,2,VIP / High-Value
+C01784,59,14,5588.9800000000005,0,VIP / High-Value
+C01785,13,18,7301.59,2,VIP / High-Value
+C01786,12,18,9152.5,2,VIP / High-Value
+C01787,247,2,665.1899999999999,1,Low-Value / Deal Hunters
+C01788,20,8,2203.36,3,Low-Value / Deal Hunters
+C01789,268,2,449.39,1,Low-Value / Deal Hunters
+C01790,8,9,3485.48,0,VIP / High-Value
+C01791,32,9,4926.09,0,VIP / High-Value
+C01792,1,19,11780.54,2,VIP / High-Value
+C01793,14,7,4149.95,0,VIP / High-Value
+C01794,43,15,6567.15,2,VIP / High-Value
+C01795,23,20,8485.61,2,VIP / High-Value
+C01796,68,17,8277.31,2,VIP / High-Value
+C01797,20,16,5279.88,0,VIP / High-Value
+C01798,1,5,3079.18,3,Low-Value / Deal Hunters
+C01799,14,4,1338.15,3,Low-Value / Deal Hunters
+C01800,86,3,1138.48,3,Low-Value / Deal Hunters
+C01801,29,8,3825.84,0,VIP / High-Value
+C01802,42,4,1655.29,3,Low-Value / Deal Hunters
+C01803,111,5,1504.5,3,Low-Value / Deal Hunters
+C01804,130,5,2553.71,3,Low-Value / Deal Hunters
+C01805,19,12,5464.79,0,VIP / High-Value
+C01806,8,19,5578.63,2,VIP / High-Value
+C01807,72,18,7698.64,2,VIP / High-Value
+C01808,93,7,4059.03,3,Low-Value / Deal Hunters
+C01809,48,5,3536.41,3,Low-Value / Deal Hunters
+C01810,3,16,8135.11,2,VIP / High-Value
+C01811,341,3,1015.77,1,Low-Value / Deal Hunters
+C01812,241,1,941.53,1,Low-Value / Deal Hunters
+C01813,97,20,8442.05,2,VIP / High-Value
+C01814,42,9,5235.71,0,VIP / High-Value
+C01815,44,7,3162.29,3,Low-Value / Deal Hunters
+C01816,248,1,155.74,1,Low-Value / Deal Hunters
+C01817,46,19,6622.9,2,VIP / High-Value
+C01818,4,20,9506.08,2,VIP / High-Value
+C01819,19,19,8245.0,2,VIP / High-Value
+C01820,26,6,2623.7700000000004,3,Low-Value / Deal Hunters
+C01821,40,2,1747.56,3,Low-Value / Deal Hunters
+C01822,38,16,6584.6,2,VIP / High-Value
+C01823,80,16,7749.41,2,VIP / High-Value
+C01824,94,5,2961.14,3,Low-Value / Deal Hunters
+C01825,54,14,4755.64,0,VIP / High-Value
+C01826,39,9,4165.71,0,VIP / High-Value
+C01827,113,7,2601.6,3,Low-Value / Deal Hunters
+C01828,7,11,5183.0,0,VIP / High-Value
+C01829,75,17,10064.57,2,VIP / High-Value
+C01830,54,19,10065.09,2,VIP / High-Value
+C01831,72,10,3460.2999999999997,0,VIP / High-Value
+C01832,39,18,8601.18,2,VIP / High-Value
+C01833,278,3,1567.33,1,Low-Value / Deal Hunters
+C01834,10,17,5753.8,2,VIP / High-Value
+C01835,7,20,8439.02,2,VIP / High-Value
+C01836,1,18,7159.53,2,VIP / High-Value
+C01837,27,13,4830.9800000000005,0,VIP / High-Value
+C01838,17,15,7907.77,2,VIP / High-Value
+C01839,17,17,8015.46,2,VIP / High-Value
+C01840,54,5,3645.19,3,Low-Value / Deal Hunters
+C01841,18,3,651.01,3,Low-Value / Deal Hunters
+C01842,29,18,5243.49,2,VIP / High-Value
+C01843,32,16,6070.67,2,VIP / High-Value
+C01844,168,6,3326.1099999999997,3,Low-Value / Deal Hunters
+C01845,45,16,5040.83,0,VIP / High-Value
+C01846,365,1,234.94,1,Low-Value / Deal Hunters
+C01847,8,20,7870.889999999999,2,VIP / High-Value
+C01848,5,3,1515.8400000000001,3,Low-Value / Deal Hunters
+C01849,69,7,2089.68,3,Low-Value / Deal Hunters
+C01850,173,7,2381.73,3,Low-Value / Deal Hunters
+C01851,87,10,2639.7,3,Low-Value / Deal Hunters
+C01852,52,15,5520.3,0,VIP / High-Value
+C01853,43,12,5813.1,0,VIP / High-Value
+C01854,3,19,9787.49,2,VIP / High-Value
+C01855,42,5,2223.81,3,Low-Value / Deal Hunters
+C01856,29,6,2045.91,3,Low-Value / Deal Hunters
+C01857,53,17,6911.04,2,VIP / High-Value
+C01858,51,19,9345.01,2,VIP / High-Value
+C01859,53,20,10595.7,2,VIP / High-Value
+C01860,6,14,3286.41,0,VIP / High-Value
+C01861,30,17,7377.7699999999995,2,VIP / High-Value
+C01862,16,4,2066.58,3,Low-Value / Deal Hunters
+C01863,35,11,5121.95,0,VIP / High-Value
+C01864,20,4,1635.89,3,Low-Value / Deal Hunters
+C01865,2,17,5993.17,2,VIP / High-Value
+C01866,53,10,3980.19,0,VIP / High-Value
+C01867,44,2,1793.1799999999998,3,Low-Value / Deal Hunters
+C01868,24,19,10288.75,2,VIP / High-Value
+C01869,97,16,5775.52,2,VIP / High-Value
+C01870,62,3,1819.67,3,Low-Value / Deal Hunters
+C01871,43,11,4025.94,0,VIP / High-Value
+C01872,34,7,4501.2,0,VIP / High-Value
+C01873,6,7,4101.16,0,VIP / High-Value
+C01874,35,10,5279.55,0,VIP / High-Value
+C01875,41,3,486.84000000000003,3,Low-Value / Deal Hunters
+C01876,43,15,5670.79,0,VIP / High-Value
+C01877,16,19,7358.25,2,VIP / High-Value
+C01878,152,2,2081.19,3,Low-Value / Deal Hunters
+C01879,7,17,9264.01,2,VIP / High-Value
+C01880,15,15,7444.1900000000005,2,VIP / High-Value
+C01881,65,14,3679.1,0,VIP / High-Value
+C01882,21,10,4786.4,0,VIP / High-Value
+C01883,45,13,5705.61,0,VIP / High-Value
+C01884,3,7,3560.93,0,VIP / High-Value
+C01885,8,3,1728.14,3,Low-Value / Deal Hunters
+C01886,10,17,8126.1,2,VIP / High-Value
+C01887,156,2,1412.56,3,Low-Value / Deal Hunters
+C01888,12,16,5891.509999999999,2,VIP / High-Value
+C01889,163,6,2041.58,3,Low-Value / Deal Hunters
+C01890,15,9,4222.47,0,VIP / High-Value
+C01891,14,20,11112.45,2,VIP / High-Value
+C01892,47,17,7780.360000000001,2,VIP / High-Value
+C01893,18,3,1096.19,3,Low-Value / Deal Hunters
+C01894,114,6,3214.8399999999997,3,Low-Value / Deal Hunters
+C01895,10,19,8863.18,2,VIP / High-Value
+C01896,146,2,1777.31,3,Low-Value / Deal Hunters
+C01897,78,16,6812.89,2,VIP / High-Value
+C01898,74,6,4451.21,3,Low-Value / Deal Hunters
+C01899,33,11,5676.8,0,VIP / High-Value
+C01900,36,7,2825.15,3,Low-Value / Deal Hunters
+C01901,54,3,1071.85,3,Low-Value / Deal Hunters
+C01902,5,17,7113.86,2,VIP / High-Value
+C01903,2,10,3064.0299999999997,0,VIP / High-Value
+C01904,8,12,4785.360000000001,0,VIP / High-Value
+C01905,180,1,727.68,1,Low-Value / Deal Hunters
+C01906,12,17,7480.51,2,VIP / High-Value
+C01907,16,4,3414.64,3,Low-Value / Deal Hunters
+C01908,1,14,9124.42,2,VIP / High-Value
+C01909,37,5,2855.94,3,Low-Value / Deal Hunters
+C01910,37,5,2477.77,3,Low-Value / Deal Hunters
+C01911,31,3,1924.6100000000001,3,Low-Value / Deal Hunters
+C01912,18,14,4892.89,0,VIP / High-Value
+C01913,14,19,9977.789999999999,2,VIP / High-Value
+C01914,113,7,1664.25,3,Low-Value / Deal Hunters
+C01915,22,14,4425.84,0,VIP / High-Value
+C01916,32,6,4748.16,0,VIP / High-Value
+C01917,22,13,6341.950000000001,0,VIP / High-Value
+C01918,46,15,6580.200000000001,2,VIP / High-Value
+C01919,238,1,49.57,1,Low-Value / Deal Hunters
+C01920,11,20,9658.86,2,VIP / High-Value
+C01921,49,12,6622.59,0,VIP / High-Value
+C01922,22,16,8284.16,2,VIP / High-Value
+C01923,127,4,2750.1400000000003,3,Low-Value / Deal Hunters
+C01924,91,8,3690.0099999999998,3,Low-Value / Deal Hunters
+C01925,176,5,2014.1799999999998,3,Low-Value / Deal Hunters
+C01926,20,6,2256.0,3,Low-Value / Deal Hunters
+C01927,3,8,2922.0,0,VIP / High-Value
+C01928,47,6,1667.04,3,Low-Value / Deal Hunters
+C01929,120,3,757.19,3,Low-Value / Deal Hunters
+C01930,28,12,4460.34,0,VIP / High-Value
+C01931,13,17,8767.51,2,VIP / High-Value
+C01932,19,20,9005.22,2,VIP / High-Value
+C01933,12,20,9182.44,2,VIP / High-Value
+C01934,87,1,447.07,3,Low-Value / Deal Hunters
+C01935,27,2,1560.37,3,Low-Value / Deal Hunters
+C01936,13,9,6017.08,0,VIP / High-Value
+C01937,12,10,3124.13,0,VIP / High-Value
+C01938,175,2,970.1899999999999,1,Low-Value / Deal Hunters
+C01939,45,2,1029.74,3,Low-Value / Deal Hunters
+C01940,125,4,1919.57,3,Low-Value / Deal Hunters
+C01941,48,6,3280.44,3,Low-Value / Deal Hunters
+C01942,16,9,3999.3,0,VIP / High-Value
+C01943,46,15,6774.59,2,VIP / High-Value
+C01944,56,12,5913.98,0,VIP / High-Value
+C01945,46,8,3639.21,0,VIP / High-Value
+C01946,4,20,8816.36,2,VIP / High-Value
+C01947,64,10,4627.24,0,VIP / High-Value
+C01948,9,13,5011.19,0,VIP / High-Value
+C01949,32,15,7733.16,2,VIP / High-Value
+C01950,175,5,1663.21,3,Low-Value / Deal Hunters
+C01951,178,1,662.1,1,Low-Value / Deal Hunters
+C01952,5,18,9118.51,2,VIP / High-Value
+C01953,24,19,9912.71,2,VIP / High-Value
+C01954,1,5,1809.15,3,Low-Value / Deal Hunters
+C01955,152,8,4438.65,3,Low-Value / Deal Hunters
+C01956,154,4,1659.41,3,Low-Value / Deal Hunters
+C01957,9,5,1888.66,3,Low-Value / Deal Hunters
+C01958,8,17,8312.9,2,VIP / High-Value
+C01959,426,1,489.39,1,Low-Value / Deal Hunters
+C01960,201,3,804.78,1,Low-Value / Deal Hunters
+C01961,5,13,7469.29,2,VIP / High-Value
+C01962,6,17,5908.38,2,VIP / High-Value
+C01963,1,18,8345.77,2,VIP / High-Value
+C01964,1,14,6159.33,0,VIP / High-Value
+C01965,115,5,2096.74,3,Low-Value / Deal Hunters
+C01966,31,3,825.0300000000001,3,Low-Value / Deal Hunters
+C01967,14,14,5772.84,0,VIP / High-Value
+C01968,40,15,6459.74,2,VIP / High-Value
+C01969,29,7,3502.7,3,Low-Value / Deal Hunters
+C01970,21,20,8881.58,2,VIP / High-Value
+C01971,157,8,4307.38,3,Low-Value / Deal Hunters
+C01972,433,1,524.28,1,Low-Value / Deal Hunters
+C01973,30,16,6553.099999999999,2,VIP / High-Value
+C01974,109,6,2506.86,3,Low-Value / Deal Hunters
+C01975,194,3,270.52,1,Low-Value / Deal Hunters
+C01976,30,2,665.91,3,Low-Value / Deal Hunters
+C01977,4,12,5417.76,0,VIP / High-Value
+C01978,3,16,7230.63,2,VIP / High-Value
+C01979,76,5,3419.4,3,Low-Value / Deal Hunters
+C01980,17,19,6632.71,2,VIP / High-Value
+C01981,114,6,1751.8300000000002,3,Low-Value / Deal Hunters
+C01982,8,18,7677.62,2,VIP / High-Value
+C01983,48,7,2168.17,3,Low-Value / Deal Hunters
+C01984,23,15,8224.08,2,VIP / High-Value
+C01985,259,1,151.04,1,Low-Value / Deal Hunters
+C01986,7,14,7504.33,2,VIP / High-Value
+C01987,73,13,4879.82,0,VIP / High-Value
+C01988,28,1,147.38,3,Low-Value / Deal Hunters
+C01989,7,13,4298.72,0,VIP / High-Value
+C01990,84,9,4624.36,0,VIP / High-Value
+C01991,85,4,1118.3200000000002,3,Low-Value / Deal Hunters
+C01992,2,13,4827.1900000000005,0,VIP / High-Value
+C01993,84,5,2648.96,3,Low-Value / Deal Hunters
+C01994,12,17,8116.38,2,VIP / High-Value
+C01995,4,19,8936.76,2,VIP / High-Value
+C01996,100,5,2039.35,3,Low-Value / Deal Hunters
+C01997,89,2,1346.47,3,Low-Value / Deal Hunters
+C01998,104,5,2329.35,3,Low-Value / Deal Hunters
+C01999,12,13,7383.91,2,VIP / High-Value
+C02000,95,16,8801.48,2,VIP / High-Value
