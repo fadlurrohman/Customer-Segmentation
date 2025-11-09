@@ -1,4 +1,4 @@
-# Project 3 – Customer Segmentation using RFM & Clustering
+# Customer Segmentation using RFM & Clustering
 
 This project simulates hotel booking transactions and segments customers using:
 
